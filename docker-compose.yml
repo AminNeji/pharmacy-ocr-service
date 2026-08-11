@@ -1,0 +1,62 @@
+services:
+  api:
+    build:
+      context: .
+      target: runtime
+    image: pharmacy-ocr-service:3.0.0
+    restart: unless-stopped
+    ports:
+      - "127.0.0.1:8000:8000"
+    environment:
+      ENVIRONMENT: production
+      LOG_FORMAT: json
+      LOG_LEVEL: INFO
+      DATA_DIR: /data
+      # Required in production. Generate with:
+      #   python -c "import secrets; print(secrets.token_urlsafe(32))"
+      API_KEYS: ${API_KEYS:?set API_KEYS in your .env file}
+      DOCS_ENABLED: "false"
+      MAX_CONCURRENT_EXTRACTIONS: "2"
+      MAX_UPLOAD_BYTES: "20971520"
+      RATE_LIMIT_PER_MINUTE: "60"
+      WARMUP_ON_STARTUP: "true"
+      # Deterministic parsing only. Switch to "hybrid" once the ollama
+      # profile below is running and you have accepted the trade-off.
+      EXTRACTION_MODE: hybrid
+      OLLAMA_HOST: http://ollama:11434
+    volumes:
+      - ocr-data:/data
+    # OCR is CPU-bound; without a ceiling one large PDF can starve the host.
+    deploy:
+      resources:
+        limits:
+          cpus: "4.0"
+          memory: 6G
+    healthcheck:
+      test: ["CMD", "curl", "-fsS", "http://127.0.0.1:8000/health/live"]
+      interval: 30s
+      timeout: 5s
+      start_period: 180s
+      retries: 3
+    security_opt:
+      - no-new-privileges:true
+    depends_on:
+      ollama:
+        condition: service_started
+        required: false
+
+  # Optional: only needed for EXTRACTION_MODE=hybrid or llm.
+  # Start it with:  docker compose --profile llm up -d
+  ollama:
+    image: ollama/ollama:latest
+    profiles: ["llm"]
+    restart: unless-stopped
+    volumes:
+      - ollama-models:/root/.ollama
+    # Not published to the host: only the api service needs to reach it.
+    expose:
+      - "11434"
+
+volumes:
+  ocr-data:
+  ollama-models:

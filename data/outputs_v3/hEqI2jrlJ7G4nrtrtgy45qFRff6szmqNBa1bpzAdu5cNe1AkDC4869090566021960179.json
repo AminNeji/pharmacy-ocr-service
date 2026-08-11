@@ -1,0 +1,40 @@
+{
+  "source_file": "hEqI2jrlJ7G4nrtrtgy45qFRff6szmqNBa1bpzAdu5cNe1AkDC4869090566021960179.pdf",
+  "status": "ok",
+  "items": [
+    {
+      "REFCODE": "300238",
+      "MED": "AMLOR 5 MG B/30",
+      "QT": 3,
+      "prix": 78.15,
+      "unit_price": 26.05,
+      "confidence": 0.9972
+    },
+    {
+      "REFCODE": "301778",
+      "MED": "VISSEN 10MG BT 90",
+      "QT": 1,
+      "prix": 72.19,
+      "unit_price": 72.19,
+      "confidence": 0.9941
+    }
+  ],
+  "warnings": [],
+  "error": null,
+  "invoice_total": 150.34,
+  "items_total": 150.34,
+  "checksum_ok": true,
+  "page_count": 1,
+  "extraction_mode": "deterministic",
+  "ocr_engine": "paddleocr",
+  "service_version": "3.1.0",
+  "processed_at": "2026-07-31T11:14:38.789811Z",
+  "timings": {
+    "primary_preprocessing_s": 0.46,
+    "preprocessing_s": 0.46,
+    "primary_ocr_s": 75.83,
+    "ocr_s": 75.83,
+    "parsing_s": 0.003,
+    "total_s": 76.32
+  }
+}

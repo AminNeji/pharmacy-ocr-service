@@ -1,0 +1,42 @@
+{
+  "source_file": "Lkuvqul09OCHO7oAQJ4LwO4bNftzQmzJa0OVViqHBAn7vQsee75891454359697084327-2.pdf",
+  "status": "needs_review",
+  "items": [
+    {
+      "REFCODE": null,
+      "MED": "VACCIN ANTITETANIQUE VACCIN",
+      "QT": 1,
+      "prix": 4.957,
+      "unit_price": 4.957,
+      "confidence": 0.9952
+    },
+    {
+      "REFCODE": null,
+      "MED": "otal",
+      "QT": 1,
+      "prix": 111.042,
+      "unit_price": null,
+      "confidence": 0.9953
+    }
+  ],
+  "warnings": [
+    "invoice total could not be detected, so the checksum was skipped"
+  ],
+  "error": null,
+  "invoice_total": null,
+  "items_total": 115.999,
+  "checksum_ok": null,
+  "page_count": 1,
+  "extraction_mode": "deterministic",
+  "ocr_engine": "paddleocr",
+  "service_version": "3.1.0",
+  "processed_at": "2026-07-31T11:24:20.889995Z",
+  "timings": {
+    "primary_preprocessing_s": 7.02,
+    "preprocessing_s": 7.02,
+    "primary_ocr_s": 59.92,
+    "ocr_s": 59.92,
+    "parsing_s": 0.003,
+    "total_s": 66.96
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "source_file": "Lkuvqul09OCHO7oAQJ4LwO4bNftzQmzJa0OVViqHBAn7vQsee75891454359697084327.pdf",
+  "status": "ok",
+  "items": [
+    {
+      "REFCODE": "303700",
+      "MED": "CLAVUMOX 500MG/62.5MG CP B/48",
+      "QT": 1,
+      "prix": 29.3,
+      "unit_price": 29.3,
+      "confidence": 0.991
+    },
+    {
+      "REFCODE": "301358",
+      "MED": "INFLAMYL FORT 500MG B/20",
+      "QT": 1,
+      "prix": 6.45,
+      "unit_price": 6.45,
+      "confidence": 0.9984
+    }
+  ],
+  "warnings": [],
+  "error": null,
+  "invoice_total": 35.75,
+  "items_total": 35.75,
+  "checksum_ok": true,
+  "page_count": 1,
+  "extraction_mode": "deterministic",
+  "ocr_engine": "paddleocr",
+  "service_version": "3.2.0",
+  "processed_at": "2026-07-31T13:11:00.172504Z",
+  "timings": {
+    "primary_ocr_cache_hit": 1.0,
+    "rot270_ocr_cache_hit": 1.0,
+    "rot90_ocr_cache_hit": 1.0,
+    "orientation_degrees": 270.0,
+    "parsing_s": 0.004,
+    "total_s": 0.04
+  }
+}

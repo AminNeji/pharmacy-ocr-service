@@ -1,0 +1,61 @@
+{
+  "source_file": "nUdhWqh5R6uqYzLfrtGnV3S3OMBIUX5UsYlpY2jP5qturstDp68420241526461270916.pdf",
+  "status": "ok",
+  "items": [
+    {
+      "REFCODE": "301189",
+      "MED": "ESORAL 40 MG GELU B/28 GELULE",
+      "QT": 4,
+      "prix": 194.84,
+      "unit_price": 48.71,
+      "confidence": 0.9936
+    },
+    {
+      "REFCODE": "300224",
+      "MED": "CLAMOXYL 1 GR B/12 COMPRI",
+      "QT": 4,
+      "prix": 55.22,
+      "unit_price": 13.805,
+      "confidence": 0.9919
+    },
+    {
+      "REFCODE": "300764",
+      "MED": "CLARID 500 MG B/14 COMPRI",
+      "QT": 2,
+      "prix": 59.56,
+      "unit_price": 29.78,
+      "confidence": 0.9956
+    },
+    {
+      "REFCODE": "302780",
+      "MED": "TAMIZOL 500 MG B/14 COMPRIMES CP",
+      "QT": 2,
+      "prix": 9.9,
+      "unit_price": 4.95,
+      "confidence": 0.9973
+    },
+    {
+      "REFCODE": "210606152",
+      "MED": "IALUSOPH B/20 SACHETS SACHET",
+      "QT": 5,
+      "prix": 117.5,
+      "unit_price": 23.5,
+      "confidence": 0.9998
+    }
+  ],
+  "warnings": [],
+  "error": null,
+  "invoice_total": 437.02,
+  "items_total": 437.02,
+  "checksum_ok": true,
+  "page_count": 1,
+  "extraction_mode": "deterministic",
+  "ocr_engine": "paddleocr",
+  "service_version": "3.1.0",
+  "processed_at": "2026-07-29T23:36:22.588280Z",
+  "timings": {
+    "primary_ocr_cache_hit": 1.0,
+    "parsing_s": 0.001,
+    "total_s": 0.0
+  }
+}

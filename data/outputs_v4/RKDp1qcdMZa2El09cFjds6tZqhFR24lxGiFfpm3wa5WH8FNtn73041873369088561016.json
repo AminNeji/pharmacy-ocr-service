@@ -1,0 +1,61 @@
+{
+  "source_file": "RKDp1qcdMZa2El09cFjds6tZqhFR24lxGiFfpm3wa5WH8FNtn73041873369088561016.jpeg",
+  "status": "ok",
+  "items": [
+    {
+      "REFCODE": "300252",
+      "MED": "PRIMALAN FORT 1OMG B/15 / CP",
+      "QT": 1,
+      "prix": 11.375,
+      "unit_price": 11.375,
+      "confidence": 0.9092
+    },
+    {
+      "REFCODE": "302890",
+      "MED": "XYLIX 5MG/ML FL 20 ML / SIROP",
+      "QT": 1,
+      "prix": 8.385,
+      "unit_price": 8.385,
+      "confidence": 0.9684
+    },
+    {
+      "REFCODE": "301979",
+      "MED": "VITAPRED 20MG BT/10 / COMP",
+      "QT": 1,
+      "prix": 5.89,
+      "unit_price": 5.89,
+      "confidence": 0.9129
+    },
+    {
+      "REFCODE": "107873",
+      "MED": "VESSEL DUE F B/50 / CP C",
+      "QT": 1,
+      "prix": 48.81,
+      "unit_price": 48.81,
+      "confidence": 0.8835
+    },
+    {
+      "REFCODE": "301426",
+      "MED": "DEXERYL CREME/ CREME",
+      "QT": 1,
+      "prix": 10.84,
+      "unit_price": 10.84,
+      "confidence": 0.9936
+    }
+  ],
+  "warnings": [],
+  "error": null,
+  "invoice_total": 85.3,
+  "items_total": 85.3,
+  "checksum_ok": true,
+  "page_count": 1,
+  "extraction_mode": "deterministic",
+  "ocr_engine": "paddleocr",
+  "service_version": "3.2.0",
+  "processed_at": "2026-07-31T13:11:56.705017Z",
+  "timings": {
+    "primary_ocr_cache_hit": 1.0,
+    "parsing_s": 0.003,
+    "total_s": 1.89
+  }
+}

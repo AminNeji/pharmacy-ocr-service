@@ -1,0 +1,47 @@
+{
+  "source_file": "dsGdh85b6EuIcdjZbSOpHfDME4TfYUkZd63OLbtDLTiyJ3cH981778418178846963373.pdf",
+  "status": "needs_review",
+  "items": [
+    {
+      "REFCODE": "301061",
+      "MED": "OROKEN 100MG ENF SP302309 BETACORT0.005 GOUTTE BUVABLE3",
+      "QT": 1,
+      "prix": 5.16,
+      "unit_price": 5.16,
+      "confidence": 0.9272
+    },
+    {
+      "REFCODE": "302568",
+      "MED": "CLARIUS 0.5MG SP 150ML 1 x 6894",
+      "QT": 1,
+      "prix": 30.638,
+      "unit_price": 30.636,
+      "confidence": 0.9498
+    },
+    {
+      "REFCODE": "000000",
+      "MED": "DERMACARE PRURICALME 50MLSPSV",
+      "QT": 1,
+      "prix": 78.58,
+      "unit_price": null,
+      "confidence": 0.9123
+    }
+  ],
+  "warnings": [
+    "invoice total could not be detected, so the checksum was skipped"
+  ],
+  "error": null,
+  "invoice_total": null,
+  "items_total": 114.378,
+  "checksum_ok": null,
+  "page_count": 1,
+  "extraction_mode": "deterministic",
+  "ocr_engine": "paddleocr",
+  "service_version": "3.1.0",
+  "processed_at": "2026-07-29T23:36:22.126891Z",
+  "timings": {
+    "primary_ocr_cache_hit": 1.0,
+    "parsing_s": 0.001,
+    "total_s": 0.0
+  }
+}

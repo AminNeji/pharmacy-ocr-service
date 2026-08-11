@@ -1,0 +1,61 @@
+{
+  "source_file": "qIjo6kIYmMWCDaJ5SbQ8gYWzApyL1ZpgJKZfjyahgB1rGYWazS8932991398138912428.pdf",
+  "status": "ok",
+  "items": [
+    {
+      "REFCODE": "303154",
+      "MED": "COPRED 20MG B/10CP ORODISPER",
+      "QT": 1,
+      "prix": 5.32,
+      "unit_price": 5.32,
+      "confidence": 0.9952
+    },
+    {
+      "REFCODE": "302556",
+      "MED": "RUGDAL 20MG/BTE 8 GELULES",
+      "QT": 1,
+      "prix": 6.01,
+      "unit_price": 6.01,
+      "confidence": 0.9992
+    },
+    {
+      "REFCODE": "303259",
+      "MED": "VIT D3 SAIPH INJ",
+      "QT": 1,
+      "prix": 5.17,
+      "unit_price": 5.17,
+      "confidence": 0.9908
+    },
+    {
+      "REFCODE": "307418",
+      "MED": "UPSA C 1G B/10",
+      "QT": 1,
+      "prix": 3.43,
+      "unit_price": 3.43,
+      "confidence": 0.998
+    },
+    {
+      "REFCODE": "300577",
+      "MED": "PANADOL EXTRA 500 MG B/16",
+      "QT": 1,
+      "prix": 4.335,
+      "unit_price": 4.335,
+      "confidence": 0.9963
+    }
+  ],
+  "warnings": [],
+  "error": null,
+  "invoice_total": 24.265,
+  "items_total": 24.265,
+  "checksum_ok": true,
+  "page_count": 1,
+  "extraction_mode": "deterministic",
+  "ocr_engine": "paddleocr",
+  "service_version": "3.1.0",
+  "processed_at": "2026-07-29T23:36:22.746169Z",
+  "timings": {
+    "primary_ocr_cache_hit": 1.0,
+    "parsing_s": 0.001,
+    "total_s": 0.0
+  }
+}

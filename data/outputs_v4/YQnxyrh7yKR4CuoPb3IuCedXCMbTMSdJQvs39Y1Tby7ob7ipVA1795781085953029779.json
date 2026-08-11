@@ -1,0 +1,53 @@
+{
+  "source_file": "YQnxyrh7yKR4CuoPb3IuCedXCMbTMSdJQvs39Y1Tby7ob7ipVA1795781085953029779.pdf",
+  "status": "ok",
+  "items": [
+    {
+      "REFCODE": "309987",
+      "MED": "CLAVOR COMPRIMÉS 500MG",
+      "QT": 1,
+      "prix": 17.105,
+      "unit_price": 17.105,
+      "confidence": 0.9929
+    },
+    {
+      "REFCODE": null,
+      "MED": "TOUMIX SIROP ADULTE NORMAL",
+      "QT": 1,
+      "prix": 16.06,
+      "unit_price": 16.06,
+      "confidence": 0.9883
+    },
+    {
+      "REFCODE": "300766",
+      "MED": "DESLOR 5 MG BT/15",
+      "QT": 1,
+      "prix": 7.83,
+      "unit_price": 7.83,
+      "confidence": 0.9977
+    },
+    {
+      "REFCODE": "301235",
+      "MED": "DOLIPRANE 1000 MG B/8 CP",
+      "QT": 1,
+      "prix": 4.245,
+      "unit_price": 4.245,
+      "confidence": 0.9986
+    }
+  ],
+  "warnings": [],
+  "error": null,
+  "invoice_total": 45.24,
+  "items_total": 45.24,
+  "checksum_ok": true,
+  "page_count": 1,
+  "extraction_mode": "deterministic",
+  "ocr_engine": "paddleocr",
+  "service_version": "3.2.0",
+  "processed_at": "2026-07-31T13:13:23.256465Z",
+  "timings": {
+    "primary_ocr_cache_hit": 1.0,
+    "parsing_s": 0.002,
+    "total_s": 0.03
+  }
+}

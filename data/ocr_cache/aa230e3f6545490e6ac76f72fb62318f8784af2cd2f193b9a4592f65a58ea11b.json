@@ -1,0 +1,3088 @@
+{
+  "metadata": {
+    "file": {
+      "sha256": "3ec2f363b4195361859f44f2c98289db7324db8011af14b7e3caedd0a9b919ca",
+      "size": 269493
+    },
+    "settings": {
+      "rotate_degrees": 0,
+      "cache_version": "v3",
+      "ocr_engine": "paddleocr",
+      "ocr_device": "cpu",
+      "ocr_lang": "fr",
+      "ocr_version": "PP-OCRv5",
+      "det_model": "PP-OCRv5_mobile_det",
+      "rec_model": "latin_PP-OCRv5_mobile_rec",
+      "min_confidence": 0.35,
+      "doc_orientation": true,
+      "doc_unwarping": false,
+      "textline_orientation": true,
+      "adaptive_threshold": true,
+      "photo_mode": false,
+      "pdf_render_dpi": 300,
+      "target_long_side": 3300,
+      "max_long_side": 4200,
+      "pdf_max_pages": 5
+    },
+    "source_name": "4EhVxBo24tQzVPKFsDR8UvR8KoDE5Iv6xEWEXNyIQYheg1DdBi3759275221256684545.pdf"
+  },
+  "cached_at": 1785494313.3903806,
+  "timings": {
+    "preprocessing_s": 0.43,
+    "ocr_s": 78.08
+  },
+  "pages": [
+    {
+      "text": "PHARMACIE DE NUIT MARWEN ABBES\n44 AVENUE BEB JDID\nTunis 1008\nTel.: 0\nMat. F. : 1816387/B/P/C/000\nIdentif CNAM : 1/29600/15\nDate : 26/05/2026\nPatient(e)\nCode\nLibelle\nQte\nPrix U.\nTotal\n000000 CONNETTIVINA PLUS CREME DER\n20 772\n20 772\n1\n000000 BACTIGRAS TULLE GRAS 10*10\n1\n35 934\n35 934\n301606 ALGESIC 1000MG B/8 CP\n2\n2 605\n5 210\nTotal :\n61 916\nArréteé la presente à la somme de :\nSoixante et Un Dinars Neuf Cent Seize Millimes\nMerci de votre visite\nPharmacie deNuit\nes\neiunls1003\n44.RU Bab\nTé17 71 1401994\nCode CNAM: 1/2960D715\nAVANT USAGE, PRIERE DE LIRE ATTENTIVEMENT LES INFORMATIONS REPORTEES\nENniqekiritim2\nSmithNephew\nSUR LA NOTICE\nBACTIGRAS°\nCe produit médicinal est à usage externe et peut être utilisé pour traiter des situations\nCIOSY\nBAC\na e es as\nObspunucy\ne  a     e\nw202.0\n202CA2\nDescription\nde tout effet indésirable.\nBACTIGRASº Dressings are a\nConsulter votre pharmacien pour toute information ou avis.\nimpregnated with soft paraffin containing 0.5% w/w\nbes\nConsulter votre médecin si l'affection persiste après une courte p\n1008\nchlorhexidine acetate. They are presented sterile either as\ne traitement.\nindividual dressings in peel-apart pouches or as rolls in\npouches which can be opened by means of a tear-notch.\nCONNETTIVINA PLUS\nMode of action\nBACTIGRAS Dressings are designed to protect the injury\nsb dospsa\nBAcTiGRAS Dressings act as a wound contact layer between\n0,2%+1% Crème dermique\n37930\nthe wound and a secondary dressing, allowing exudate to\n2 mg + 40 mg Compresses imprégnées\npass into an absorbent secondary dressing. BAcTiGRAS sg\nDressings contain chlorhexidine acetate, a broad-spectrum\nHyaluronate de sodium + Sulfadiazine argentique\nantiseptic, which minimises risk of bacterial colonisation in\nthe wound. The chlorhexidine acetate antiseptic in\ntetcisb\nCOMPOSITION\nBACTiGRAS Dressings gives long lasting action of up to 4 days\nanti-proliferation, demonstrated in vitro and in vivo, against\nCONNETTIVINA PLUS Crème 0,2 % + 1 %:\nGram positive and Gram negative bacteria- mintsbob-mend\nIndications\n100 g de crème contiennent:\nBACTIGRAS Dressings are for use as a topical treatment only.\nnexoleW\nPrincipes actifs: Hyaluronate de sodium 0,20 g, sulfadiazine argentique 1 g.\nBACTIGRAS Dressings are indicated for a wide range of os)\nExcipients: acide oléique 5 g, cire E 2,00 g, glycérol 1,50 g, macrogol 4000 10 g,\nwounds where there is a risk of infection, or on already\ninfected wounds in conjunction with systemic antibacterial\nsorbitol solution (70 per cent) 1,50 g, eau purifiée q.s.p.100 g.\nagents. The range of wounds on which BACTIGRAS Dressings\nCONNETTIVA PLUS 2 mg + 40 mg Compresses imprégnées\nmay be used include:\nminor burns and scalds\npsolen\nChaque compresse de 10 X 10 cm est imprégnée de 4 g de crème dont la\nlacerations, abrasions and other skin loss wounds\nendomb\ndonor and recipient graft siteswat Wocreszord zsim\nise yno\nContraindications\nDo not use on more than 10% of the body surface area.\ninsselawwiassg\nty or allergy to",
+      "tokens": [
+        {
+          "text": "PHARMACIE DE NUIT MARWEN ABBES",
+          "score": 0.9990800619125366,
+          "box": [
+            72.0,
+            191.0,
+            707.0,
+            229.0
+          ],
+          "polygon": [
+            [
+              72.0,
+              192.0
+            ],
+            [
+              707.0,
+              191.0
+            ],
+            [
+              707.0,
+              228.0
+            ],
+            [
+              72.0,
+              229.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "44 AVENUE BEB JDID",
+          "score": 0.9992331266403198,
+          "box": [
+            72.0,
+            233.0,
+            425.0,
+            267.0
+          ],
+          "polygon": [
+            [
+              72.0,
+              233.0
+            ],
+            [
+              425.0,
+              233.0
+            ],
+            [
+              425.0,
+              267.0
+            ],
+            [
+              72.0,
+              267.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "Tunis 1008",
+          "score": 0.9555678367614746,
+          "box": [
+            74.0,
+            270.0,
+            265.0,
+            308.0
+          ],
+          "polygon": [
+            [
+              74.0,
+              270.0
+            ],
+            [
+              265.0,
+              270.0
+            ],
+            [
+              265.0,
+              308.0
+            ],
+            [
+              74.0,
+              308.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "Tel.: 0",
+          "score": 0.994714617729187,
+          "box": [
+            69.0,
+            345.0,
+            184.0,
+            387.0
+          ],
+          "polygon": [
+            [
+              69.0,
+              345.0
+            ],
+            [
+              184.0,
+              345.0
+            ],
+            [
+              184.0,
+              387.0
+            ],
+            [
+              69.0,
+              387.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "Mat. F. : 1816387/B/P/C/000",
+          "score": 0.9826132655143738,
+          "box": [
+            69.0,
+            384.0,
+            506.0,
+            425.0
+          ],
+          "polygon": [
+            [
+              69.0,
+              388.0
+            ],
+            [
+              505.0,
+              384.0
+            ],
+            [
+              506.0,
+              421.0
+            ],
+            [
+              70.0,
+              425.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "Identif CNAM : 1/29600/15",
+          "score": 0.9816427826881409,
+          "box": [
+            72.0,
+            425.0,
+            488.0,
+            465.0
+          ],
+          "polygon": [
+            [
+              72.0,
+              428.0
+            ],
+            [
+              488.0,
+              425.0
+            ],
+            [
+              488.0,
+              462.0
+            ],
+            [
+              73.0,
+              465.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "Date : 26/05/2026",
+          "score": 0.9991063475608826,
+          "box": [
+            74.0,
+            503.0,
+            346.0,
+            541.0
+          ],
+          "polygon": [
+            [
+              74.0,
+              503.0
+            ],
+            [
+              346.0,
+              503.0
+            ],
+            [
+              346.0,
+              541.0
+            ],
+            [
+              74.0,
+              541.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "Patient(e)",
+          "score": 0.9995067715644836,
+          "box": [
+            71.0,
+            577.0,
+            232.0,
+            622.0
+          ],
+          "polygon": [
+            [
+              71.0,
+              577.0
+            ],
+            [
+              232.0,
+              577.0
+            ],
+            [
+              232.0,
+              622.0
+            ],
+            [
+              71.0,
+              622.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "Code",
+          "score": 0.9989467859268188,
+          "box": [
+            73.0,
+            655.0,
+            168.0,
+            696.0
+          ],
+          "polygon": [
+            [
+              73.0,
+              655.0
+            ],
+            [
+              168.0,
+              655.0
+            ],
+            [
+              168.0,
+              696.0
+            ],
+            [
+              73.0,
+              696.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "Libelle",
+          "score": 0.9997782707214355,
+          "box": [
+            227.0,
+            654.0,
+            339.0,
+            696.0
+          ],
+          "polygon": [
+            [
+              228.0,
+              654.0
+            ],
+            [
+              339.0,
+              656.0
+            ],
+            [
+              338.0,
+              696.0
+            ],
+            [
+              227.0,
+              694.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "Qte",
+          "score": 0.9998455047607422,
+          "box": [
+            910.0,
+            654.0,
+            982.0,
+            693.0
+          ],
+          "polygon": [
+            [
+              910.0,
+              654.0
+            ],
+            [
+              982.0,
+              654.0
+            ],
+            [
+              982.0,
+              693.0
+            ],
+            [
+              910.0,
+              693.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "Prix U.",
+          "score": 0.9852151274681091,
+          "box": [
+            1082.0,
+            653.0,
+            1198.0,
+            693.0
+          ],
+          "polygon": [
+            [
+              1082.0,
+              653.0
+            ],
+            [
+              1198.0,
+              653.0
+            ],
+            [
+              1198.0,
+              693.0
+            ],
+            [
+              1082.0,
+              693.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "Total",
+          "score": 0.9996438026428223,
+          "box": [
+            1330.0,
+            652.0,
+            1413.0,
+            694.0
+          ],
+          "polygon": [
+            [
+              1330.0,
+              652.0
+            ],
+            [
+              1413.0,
+              652.0
+            ],
+            [
+              1413.0,
+              694.0
+            ],
+            [
+              1330.0,
+              694.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "000000 CONNETTIVINA PLUS CREME DER",
+          "score": 0.9834371209144592,
+          "box": [
+            70.0,
+            708.0,
+            764.0,
+            748.0
+          ],
+          "polygon": [
+            [
+              70.0,
+              711.0
+            ],
+            [
+              764.0,
+              708.0
+            ],
+            [
+              764.0,
+              745.0
+            ],
+            [
+              71.0,
+              748.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "20 772",
+          "score": 0.9904751777648926,
+          "box": [
+            1076.0,
+            707.0,
+            1192.0,
+            747.0
+          ],
+          "polygon": [
+            [
+              1076.0,
+              707.0
+            ],
+            [
+              1192.0,
+              707.0
+            ],
+            [
+              1192.0,
+              747.0
+            ],
+            [
+              1076.0,
+              747.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "20 772",
+          "score": 0.9985758662223816,
+          "box": [
+            1283.0,
+            702.0,
+            1401.0,
+            747.0
+          ],
+          "polygon": [
+            [
+              1283.0,
+              704.0
+            ],
+            [
+              1400.0,
+              702.0
+            ],
+            [
+              1401.0,
+              745.0
+            ],
+            [
+              1284.0,
+              747.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "1",
+          "score": 0.9999772310256958,
+          "box": [
+            953.0,
+            719.0,
+            974.0,
+            745.0
+          ],
+          "polygon": [
+            [
+              953.0,
+              719.0
+            ],
+            [
+              974.0,
+              719.0
+            ],
+            [
+              974.0,
+              745.0
+            ],
+            [
+              953.0,
+              745.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "000000 BACTIGRAS TULLE GRAS 10*10",
+          "score": 0.9926568269729614,
+          "box": [
+            73.0,
+            747.0,
+            719.0,
+            786.0
+          ],
+          "polygon": [
+            [
+              73.0,
+              748.0
+            ],
+            [
+              719.0,
+              747.0
+            ],
+            [
+              719.0,
+              785.0
+            ],
+            [
+              73.0,
+              786.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "1",
+          "score": 0.9999567270278931,
+          "box": [
+            953.0,
+            751.0,
+            974.0,
+            781.0
+          ],
+          "polygon": [
+            [
+              953.0,
+              751.0
+            ],
+            [
+              974.0,
+              751.0
+            ],
+            [
+              974.0,
+              781.0
+            ],
+            [
+              953.0,
+              781.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "35 934",
+          "score": 0.9392461776733398,
+          "box": [
+            1081.0,
+            747.0,
+            1192.0,
+            783.0
+          ],
+          "polygon": [
+            [
+              1081.0,
+              747.0
+            ],
+            [
+              1192.0,
+              747.0
+            ],
+            [
+              1192.0,
+              783.0
+            ],
+            [
+              1081.0,
+              783.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "35 934",
+          "score": 0.9993472695350647,
+          "box": [
+            1286.0,
+            745.0,
+            1402.0,
+            784.0
+          ],
+          "polygon": [
+            [
+              1286.0,
+              745.0
+            ],
+            [
+              1402.0,
+              745.0
+            ],
+            [
+              1402.0,
+              784.0
+            ],
+            [
+              1286.0,
+              784.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "301606 ALGESIC 1000MG B/8 CP",
+          "score": 0.995716392993927,
+          "box": [
+            72.0,
+            784.0,
+            607.0,
+            825.0
+          ],
+          "polygon": [
+            [
+              72.0,
+              787.0
+            ],
+            [
+              607.0,
+              784.0
+            ],
+            [
+              607.0,
+              821.0
+            ],
+            [
+              73.0,
+              825.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "2",
+          "score": 0.9999357461929321,
+          "box": [
+            953.0,
+            789.0,
+            974.0,
+            815.0
+          ],
+          "polygon": [
+            [
+              953.0,
+              789.0
+            ],
+            [
+              974.0,
+              789.0
+            ],
+            [
+              974.0,
+              815.0
+            ],
+            [
+              953.0,
+              815.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "2 605",
+          "score": 0.9906593561172485,
+          "box": [
+            1097.0,
+            783.0,
+            1194.0,
+            823.0
+          ],
+          "polygon": [
+            [
+              1097.0,
+              783.0
+            ],
+            [
+              1194.0,
+              783.0
+            ],
+            [
+              1194.0,
+              823.0
+            ],
+            [
+              1097.0,
+              823.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "5 210",
+          "score": 0.9700967073440552,
+          "box": [
+            1302.0,
+            783.0,
+            1399.0,
+            819.0
+          ],
+          "polygon": [
+            [
+              1302.0,
+              783.0
+            ],
+            [
+              1399.0,
+              783.0
+            ],
+            [
+              1399.0,
+              819.0
+            ],
+            [
+              1302.0,
+              819.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "Total :",
+          "score": 0.9793392419815063,
+          "box": [
+            1094.0,
+            891.0,
+            1202.0,
+            941.0
+          ],
+          "polygon": [
+            [
+              1095.0,
+              891.0
+            ],
+            [
+              1202.0,
+              894.0
+            ],
+            [
+              1200.0,
+              941.0
+            ],
+            [
+              1094.0,
+              939.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "61 916",
+          "score": 0.9972686767578125,
+          "box": [
+            1292.0,
+            889.0,
+            1419.0,
+            938.0
+          ],
+          "polygon": [
+            [
+              1292.0,
+              891.0
+            ],
+            [
+              1418.0,
+              889.0
+            ],
+            [
+              1419.0,
+              936.0
+            ],
+            [
+              1293.0,
+              938.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "Arréteé la presente à la somme de :",
+          "score": 0.986036479473114,
+          "box": [
+            72.0,
+            980.0,
+            605.0,
+            1016.0
+          ],
+          "polygon": [
+            [
+              72.0,
+              982.0
+            ],
+            [
+              605.0,
+              980.0
+            ],
+            [
+              605.0,
+              1014.0
+            ],
+            [
+              73.0,
+              1016.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "Soixante et Un Dinars Neuf Cent Seize Millimes",
+          "score": 0.9936010837554932,
+          "box": [
+            73.0,
+            1015.0,
+            789.0,
+            1055.0
+          ],
+          "polygon": [
+            [
+              74.0,
+              1015.0
+            ],
+            [
+              789.0,
+              1017.0
+            ],
+            [
+              789.0,
+              1055.0
+            ],
+            [
+              73.0,
+              1052.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "Merci de votre visite",
+          "score": 0.9998326301574707,
+          "box": [
+            75.0,
+            1103.0,
+            405.0,
+            1141.0
+          ],
+          "polygon": [
+            [
+              75.0,
+              1103.0
+            ],
+            [
+              405.0,
+              1103.0
+            ],
+            [
+              405.0,
+              1141.0
+            ],
+            [
+              75.0,
+              1141.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "Pharmacie deNuit",
+          "score": 0.9907587170600891,
+          "box": [
+            1595.0,
+            1278.0,
+            2115.0,
+            1344.0
+          ],
+          "polygon": [
+            [
+              1595.0,
+              1299.0
+            ],
+            [
+              2113.0,
+              1278.0
+            ],
+            [
+              2115.0,
+              1323.0
+            ],
+            [
+              1597.0,
+              1344.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "es",
+          "score": 0.9986848831176758,
+          "box": [
+            1981.0,
+            1334.0,
+            2036.0,
+            1373.0
+          ],
+          "polygon": [
+            [
+              1983.0,
+              1334.0
+            ],
+            [
+              2036.0,
+              1337.0
+            ],
+            [
+              2034.0,
+              1373.0
+            ],
+            [
+              1981.0,
+              1371.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "eiunls1003",
+          "score": 0.7700042128562927,
+          "box": [
+            1887.0,
+            1366.0,
+            2103.0,
+            1413.0
+          ],
+          "polygon": [
+            [
+              1887.0,
+              1374.0
+            ],
+            [
+              2101.0,
+              1366.0
+            ],
+            [
+              2103.0,
+              1405.0
+            ],
+            [
+              1889.0,
+              1413.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "44.RU Bab",
+          "score": 0.7801371216773987,
+          "box": [
+            1612.0,
+            1380.0,
+            1817.0,
+            1420.0
+          ],
+          "polygon": [
+            [
+              1612.0,
+              1385.0
+            ],
+            [
+              1816.0,
+              1380.0
+            ],
+            [
+              1817.0,
+              1415.0
+            ],
+            [
+              1613.0,
+              1420.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "Té17 71 1401994",
+          "score": 0.7503610849380493,
+          "box": [
+            1711.0,
+            1407.0,
+            2007.0,
+            1456.0
+          ],
+          "polygon": [
+            [
+              1711.0,
+              1418.0
+            ],
+            [
+              2005.0,
+              1407.0
+            ],
+            [
+              2007.0,
+              1444.0
+            ],
+            [
+              1712.0,
+              1456.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "Code CNAM: 1/2960D715",
+          "score": 0.9371100664138794,
+          "box": [
+            1646.0,
+            1443.0,
+            2071.0,
+            1500.0
+          ],
+          "polygon": [
+            [
+              1646.0,
+              1460.0
+            ],
+            [
+              2070.0,
+              1443.0
+            ],
+            [
+              2071.0,
+              1483.0
+            ],
+            [
+              1647.0,
+              1500.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "AVANT USAGE, PRIERE DE LIRE ATTENTIVEMENT LES INFORMATIONS REPORTEES",
+          "score": 0.9987335205078125,
+          "box": [
+            931.0,
+            1843.0,
+            2090.0,
+            1905.0
+          ],
+          "polygon": [
+            [
+              931.0,
+              1843.0
+            ],
+            [
+              2090.0,
+              1861.0
+            ],
+            [
+              2089.0,
+              1905.0
+            ],
+            [
+              931.0,
+              1887.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "ENniqekiritim2",
+          "score": 0.7123581171035767,
+          "box": [
+            52.0,
+            1855.0,
+            303.0,
+            1900.0
+          ],
+          "polygon": [
+            [
+              53.0,
+              1855.0
+            ],
+            [
+              303.0,
+              1859.0
+            ],
+            [
+              303.0,
+              1900.0
+            ],
+            [
+              52.0,
+              1896.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "SmithNephew",
+          "score": 0.9997702240943909,
+          "box": [
+            494.0,
+            1865.0,
+            748.0,
+            1912.0
+          ],
+          "polygon": [
+            [
+              496.0,
+              1865.0
+            ],
+            [
+              748.0,
+              1873.0
+            ],
+            [
+              746.0,
+              1912.0
+            ],
+            [
+              494.0,
+              1903.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "SUR LA NOTICE",
+          "score": 0.9992607831954956,
+          "box": [
+            928.0,
+            1887.0,
+            1163.0,
+            1932.0
+          ],
+          "polygon": [
+            [
+              929.0,
+              1887.0
+            ],
+            [
+              1163.0,
+              1891.0
+            ],
+            [
+              1162.0,
+              1932.0
+            ],
+            [
+              928.0,
+              1928.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "BACTIGRAS°",
+          "score": 0.9471352696418762,
+          "box": [
+            44.0,
+            1925.0,
+            379.0,
+            1980.0
+          ],
+          "polygon": [
+            [
+              44.0,
+              1925.0
+            ],
+            [
+              379.0,
+              1929.0
+            ],
+            [
+              378.0,
+              1980.0
+            ],
+            [
+              44.0,
+              1975.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "Ce produit médicinal est à usage externe et peut être utilisé pour traiter des situations",
+          "score": 0.9858115315437317,
+          "box": [
+            926.0,
+            1925.0,
+            2115.0,
+            2000.0
+          ],
+          "polygon": [
+            [
+              927.0,
+              1925.0
+            ],
+            [
+              2115.0,
+              1946.0
+            ],
+            [
+              2114.0,
+              2000.0
+            ],
+            [
+              926.0,
+              1979.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "CIOSY",
+          "score": 0.6254982352256775,
+          "box": [
+            471.0,
+            1941.0,
+            649.0,
+            1992.0
+          ],
+          "polygon": [
+            [
+              473.0,
+              1941.0
+            ],
+            [
+              649.0,
+              1949.0
+            ],
+            [
+              647.0,
+              1992.0
+            ],
+            [
+              471.0,
+              1984.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "BAC",
+          "score": 0.4917972981929779,
+          "box": [
+            636.0,
+            1941.0,
+            746.0,
+            1993.0
+          ],
+          "polygon": [
+            [
+              636.0,
+              1941.0
+            ],
+            [
+              746.0,
+              1941.0
+            ],
+            [
+              746.0,
+              1993.0
+            ],
+            [
+              636.0,
+              1993.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "a e es as",
+          "score": 0.3942897915840149,
+          "box": [
+            926.0,
+            1973.0,
+            1341.0,
+            2023.0
+          ],
+          "polygon": [
+            [
+              927.0,
+              1973.0
+            ],
+            [
+              1341.0,
+              1983.0
+            ],
+            [
+              1340.0,
+              2023.0
+            ],
+            [
+              926.0,
+              2013.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "Obspunucy",
+          "score": 0.5307408571243286,
+          "box": [
+            617.0,
+            1991.0,
+            746.0,
+            2026.0
+          ],
+          "polygon": [
+            [
+              617.0,
+              1991.0
+            ],
+            [
+              746.0,
+              1991.0
+            ],
+            [
+              746.0,
+              2026.0
+            ],
+            [
+              617.0,
+              2026.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "e  a     e",
+          "score": 0.40855100750923157,
+          "box": [
+            920.0,
+            2007.0,
+            2106.0,
+            2081.0
+          ],
+          "polygon": [
+            [
+              921.0,
+              2007.0
+            ],
+            [
+              2106.0,
+              2027.0
+            ],
+            [
+              2105.0,
+              2081.0
+            ],
+            [
+              920.0,
+              2062.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "w202.0",
+          "score": 0.6111351847648621,
+          "box": [
+            643.0,
+            2019.0,
+            747.0,
+            2057.0
+          ],
+          "polygon": [
+            [
+              643.0,
+              2019.0
+            ],
+            [
+              747.0,
+              2022.0
+            ],
+            [
+              747.0,
+              2057.0
+            ],
+            [
+              643.0,
+              2055.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "202CA2",
+          "score": 0.6162815093994141,
+          "box": [
+            383.0,
+            2050.0,
+            691.0,
+            2132.0
+          ],
+          "polygon": [
+            [
+              385.0,
+              2050.0
+            ],
+            [
+              691.0,
+              2059.0
+            ],
+            [
+              689.0,
+              2132.0
+            ],
+            [
+              383.0,
+              2122.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "Description",
+          "score": 0.9999479651451111,
+          "box": [
+            48.0,
+            2062.0,
+            195.0,
+            2098.0
+          ],
+          "polygon": [
+            [
+              50.0,
+              2062.0
+            ],
+            [
+              195.0,
+              2068.0
+            ],
+            [
+              194.0,
+              2098.0
+            ],
+            [
+              48.0,
+              2093.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "de tout effet indésirable.",
+          "score": 0.9981057047843933,
+          "box": [
+            923.0,
+            2053.0,
+            1270.0,
+            2104.0
+          ],
+          "polygon": [
+            [
+              924.0,
+              2053.0
+            ],
+            [
+              1270.0,
+              2060.0
+            ],
+            [
+              1269.0,
+              2104.0
+            ],
+            [
+              923.0,
+              2097.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "BACTIGRASº Dressings are a",
+          "score": 0.9534912705421448,
+          "box": [
+            45.0,
+            2093.0,
+            382.0,
+            2130.0
+          ],
+          "polygon": [
+            [
+              46.0,
+              2093.0
+            ],
+            [
+              382.0,
+              2100.0
+            ],
+            [
+              381.0,
+              2130.0
+            ],
+            [
+              45.0,
+              2123.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "Consulter votre pharmacien pour toute information ou avis.",
+          "score": 0.9976116418838501,
+          "box": [
+            937.0,
+            2098.0,
+            1780.0,
+            2156.0
+          ],
+          "polygon": [
+            [
+              937.0,
+              2098.0
+            ],
+            [
+              1780.0,
+              2112.0
+            ],
+            [
+              1779.0,
+              2156.0
+            ],
+            [
+              937.0,
+              2142.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "impregnated with soft paraffin containing 0.5% w/w",
+          "score": 0.994515597820282,
+          "box": [
+            48.0,
+            2127.0,
+            662.0,
+            2164.0
+          ],
+          "polygon": [
+            [
+              48.0,
+              2127.0
+            ],
+            [
+              662.0,
+              2137.0
+            ],
+            [
+              661.0,
+              2164.0
+            ],
+            [
+              48.0,
+              2154.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "bes",
+          "score": 0.9373621940612793,
+          "box": [
+            1816.0,
+            2096.0,
+            1901.0,
+            2155.0
+          ],
+          "polygon": [
+            [
+              1816.0,
+              2121.0
+            ],
+            [
+              1890.0,
+              2096.0
+            ],
+            [
+              1901.0,
+              2130.0
+            ],
+            [
+              1827.0,
+              2155.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "Consulter votre médecin si l'affection persiste après une courte p",
+          "score": 0.979024350643158,
+          "box": [
+            943.0,
+            2140.0,
+            1819.0,
+            2200.0
+          ],
+          "polygon": [
+            [
+              944.0,
+              2140.0
+            ],
+            [
+              1819.0,
+              2159.0
+            ],
+            [
+              1818.0,
+              2200.0
+            ],
+            [
+              943.0,
+              2180.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "1008",
+          "score": 0.9957378506660461,
+          "box": [
+            1888.0,
+            2101.0,
+            1991.0,
+            2176.0
+          ],
+          "polygon": [
+            [
+              1888.0,
+              2131.0
+            ],
+            [
+              1976.0,
+              2101.0
+            ],
+            [
+              1991.0,
+              2146.0
+            ],
+            [
+              1903.0,
+              2176.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "chlorhexidine acetate. They are presented sterile either as",
+          "score": 0.9930912852287292,
+          "box": [
+            43.0,
+            2152.0,
+            697.0,
+            2196.0
+          ],
+          "polygon": [
+            [
+              43.0,
+              2152.0
+            ],
+            [
+              697.0,
+              2166.0
+            ],
+            [
+              696.0,
+              2196.0
+            ],
+            [
+              43.0,
+              2181.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "e traitement.",
+          "score": 0.9996728301048279,
+          "box": [
+            1931.0,
+            2162.0,
+            2101.0,
+            2200.0
+          ],
+          "polygon": [
+            [
+              1931.0,
+              2162.0
+            ],
+            [
+              2101.0,
+              2162.0
+            ],
+            [
+              2101.0,
+              2200.0
+            ],
+            [
+              1931.0,
+              2200.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "individual dressings in peel-apart pouches or as rolls in",
+          "score": 0.9872173070907593,
+          "box": [
+            30.0,
+            2179.0,
+            658.0,
+            2227.0
+          ],
+          "polygon": [
+            [
+              30.0,
+              2179.0
+            ],
+            [
+              658.0,
+              2196.0
+            ],
+            [
+              657.0,
+              2227.0
+            ],
+            [
+              30.0,
+              2210.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "pouches which can be opened by means of a tear-notch.",
+          "score": 0.9943112134933472,
+          "box": [
+            42.0,
+            2210.0,
+            676.0,
+            2258.0
+          ],
+          "polygon": [
+            [
+              43.0,
+              2210.0
+            ],
+            [
+              676.0,
+              2225.0
+            ],
+            [
+              675.0,
+              2258.0
+            ],
+            [
+              42.0,
+              2243.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "CONNETTIVINA PLUS",
+          "score": 0.9996320009231567,
+          "box": [
+            905.0,
+            2226.0,
+            1690.0,
+            2323.0
+          ],
+          "polygon": [
+            [
+              906.0,
+              2226.0
+            ],
+            [
+              1690.0,
+              2241.0
+            ],
+            [
+              1688.0,
+              2323.0
+            ],
+            [
+              905.0,
+              2308.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "Mode of action",
+          "score": 0.9956159591674805,
+          "box": [
+            32.0,
+            2243.0,
+            228.0,
+            2276.0
+          ],
+          "polygon": [
+            [
+              32.0,
+              2243.0
+            ],
+            [
+              228.0,
+              2249.0
+            ],
+            [
+              227.0,
+              2276.0
+            ],
+            [
+              32.0,
+              2271.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "BACTIGRAS Dressings are designed to protect the injury",
+          "score": 0.9820500612258911,
+          "box": [
+            36.0,
+            2266.0,
+            710.0,
+            2324.0
+          ],
+          "polygon": [
+            [
+              38.0,
+              2266.0
+            ],
+            [
+              710.0,
+              2288.0
+            ],
+            [
+              709.0,
+              2324.0
+            ],
+            [
+              36.0,
+              2303.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "sb dospsa",
+          "score": 0.6059213876724243,
+          "box": [
+            599.0,
+            2273.0,
+            708.0,
+            2294.0
+          ],
+          "polygon": [
+            [
+              599.0,
+              2273.0
+            ],
+            [
+              708.0,
+              2273.0
+            ],
+            [
+              708.0,
+              2294.0
+            ],
+            [
+              599.0,
+              2294.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "BAcTiGRAS Dressings act as a wound contact layer between",
+          "score": 0.9756183624267578,
+          "box": [
+            31.0,
+            2301.0,
+            732.0,
+            2350.0
+          ],
+          "polygon": [
+            [
+              31.0,
+              2301.0
+            ],
+            [
+              732.0,
+              2322.0
+            ],
+            [
+              731.0,
+              2350.0
+            ],
+            [
+              31.0,
+              2329.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "0,2%+1% Crème dermique",
+          "score": 0.9852815866470337,
+          "box": [
+            904.0,
+            2307.0,
+            1385.0,
+            2361.0
+          ],
+          "polygon": [
+            [
+              905.0,
+              2307.0
+            ],
+            [
+              1385.0,
+              2318.0
+            ],
+            [
+              1384.0,
+              2361.0
+            ],
+            [
+              904.0,
+              2350.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "37930",
+          "score": 0.7375571131706238,
+          "box": [
+            1781.0,
+            2294.0,
+            2109.0,
+            2389.0
+          ],
+          "polygon": [
+            [
+              1781.0,
+              2305.0
+            ],
+            [
+              2107.0,
+              2294.0
+            ],
+            [
+              2109.0,
+              2378.0
+            ],
+            [
+              1783.0,
+              2389.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "the wound and a secondary dressing, allowing exudate to",
+          "score": 0.9990211725234985,
+          "box": [
+            43.0,
+            2332.0,
+            692.0,
+            2376.0
+          ],
+          "polygon": [
+            [
+              43.0,
+              2332.0
+            ],
+            [
+              692.0,
+              2348.0
+            ],
+            [
+              691.0,
+              2376.0
+            ],
+            [
+              43.0,
+              2360.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "2 mg + 40 mg Compresses imprégnées",
+          "score": 0.9825413823127747,
+          "box": [
+            904.0,
+            2350.0,
+            1597.0,
+            2411.0
+          ],
+          "polygon": [
+            [
+              905.0,
+              2350.0
+            ],
+            [
+              1597.0,
+              2367.0
+            ],
+            [
+              1596.0,
+              2411.0
+            ],
+            [
+              904.0,
+              2393.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "pass into an absorbent secondary dressing. BAcTiGRAS sg",
+          "score": 0.9423179030418396,
+          "box": [
+            43.0,
+            2361.0,
+            719.0,
+            2407.0
+          ],
+          "polygon": [
+            [
+              44.0,
+              2361.0
+            ],
+            [
+              719.0,
+              2376.0
+            ],
+            [
+              718.0,
+              2407.0
+            ],
+            [
+              43.0,
+              2392.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "Dressings contain chlorhexidine acetate, a broad-spectrum",
+          "score": 0.9979662895202637,
+          "box": [
+            43.0,
+            2390.0,
+            711.0,
+            2435.0
+          ],
+          "polygon": [
+            [
+              44.0,
+              2390.0
+            ],
+            [
+              711.0,
+              2405.0
+            ],
+            [
+              710.0,
+              2435.0
+            ],
+            [
+              43.0,
+              2419.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "Hyaluronate de sodium + Sulfadiazine argentique",
+          "score": 0.9893118739128113,
+          "box": [
+            901.0,
+            2392.0,
+            1773.0,
+            2466.0
+          ],
+          "polygon": [
+            [
+              902.0,
+              2392.0
+            ],
+            [
+              1773.0,
+              2409.0
+            ],
+            [
+              1772.0,
+              2466.0
+            ],
+            [
+              901.0,
+              2449.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "antiseptic, which minimises risk of bacterial colonisation in",
+          "score": 0.9946131706237793,
+          "box": [
+            41.0,
+            2418.0,
+            711.0,
+            2464.0
+          ],
+          "polygon": [
+            [
+              41.0,
+              2418.0
+            ],
+            [
+              711.0,
+              2434.0
+            ],
+            [
+              710.0,
+              2464.0
+            ],
+            [
+              41.0,
+              2448.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "the wound. The chlorhexidine acetate antiseptic in",
+          "score": 0.9806355237960815,
+          "box": [
+            41.0,
+            2448.0,
+            616.0,
+            2492.0
+          ],
+          "polygon": [
+            [
+              42.0,
+              2448.0
+            ],
+            [
+              616.0,
+              2464.0
+            ],
+            [
+              616.0,
+              2492.0
+            ],
+            [
+              41.0,
+              2476.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "tetcisb",
+          "score": 0.6285452842712402,
+          "box": [
+            636.0,
+            2462.0,
+            709.0,
+            2483.0
+          ],
+          "polygon": [
+            [
+              636.0,
+              2462.0
+            ],
+            [
+              709.0,
+              2462.0
+            ],
+            [
+              709.0,
+              2483.0
+            ],
+            [
+              636.0,
+              2483.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "COMPOSITION",
+          "score": 0.9998461008071899,
+          "box": [
+            898.0,
+            2461.0,
+            1135.0,
+            2514.0
+          ],
+          "polygon": [
+            [
+              899.0,
+              2461.0
+            ],
+            [
+              1135.0,
+              2466.0
+            ],
+            [
+              1134.0,
+              2514.0
+            ],
+            [
+              898.0,
+              2509.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "BACTiGRAS Dressings gives long lasting action of up to 4 days",
+          "score": 0.9794704914093018,
+          "box": [
+            39.0,
+            2476.0,
+            734.0,
+            2524.0
+          ],
+          "polygon": [
+            [
+              39.0,
+              2476.0
+            ],
+            [
+              734.0,
+              2492.0
+            ],
+            [
+              734.0,
+              2524.0
+            ],
+            [
+              39.0,
+              2509.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "anti-proliferation, demonstrated in vitro and in vivo, against",
+          "score": 0.9952380061149597,
+          "box": [
+            36.0,
+            2506.0,
+            703.0,
+            2554.0
+          ],
+          "polygon": [
+            [
+              36.0,
+              2506.0
+            ],
+            [
+              703.0,
+              2523.0
+            ],
+            [
+              702.0,
+              2554.0
+            ],
+            [
+              36.0,
+              2537.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "CONNETTIVINA PLUS Crème 0,2 % + 1 %:",
+          "score": 0.9859780073165894,
+          "box": [
+            899.0,
+            2512.0,
+            1514.0,
+            2568.0
+          ],
+          "polygon": [
+            [
+              900.0,
+              2512.0
+            ],
+            [
+              1514.0,
+              2524.0
+            ],
+            [
+              1513.0,
+              2568.0
+            ],
+            [
+              899.0,
+              2556.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "Gram positive and Gram negative bacteria- mintsbob-mend",
+          "score": 0.9051252007484436,
+          "box": [
+            32.0,
+            2528.0,
+            714.0,
+            2597.0
+          ],
+          "polygon": [
+            [
+              34.0,
+              2528.0
+            ],
+            [
+              714.0,
+              2557.0
+            ],
+            [
+              712.0,
+              2597.0
+            ],
+            [
+              32.0,
+              2569.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "Indications",
+          "score": 0.9997819662094116,
+          "box": [
+            23.0,
+            2570.0,
+            171.0,
+            2600.0
+          ],
+          "polygon": [
+            [
+              23.0,
+              2570.0
+            ],
+            [
+              171.0,
+              2572.0
+            ],
+            [
+              171.0,
+              2600.0
+            ],
+            [
+              23.0,
+              2598.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "100 g de crème contiennent:",
+          "score": 0.9992213845252991,
+          "box": [
+            902.0,
+            2561.0,
+            1312.0,
+            2614.0
+          ],
+          "polygon": [
+            [
+              903.0,
+              2561.0
+            ],
+            [
+              1312.0,
+              2566.0
+            ],
+            [
+              1311.0,
+              2614.0
+            ],
+            [
+              902.0,
+              2609.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "BACTIGRAS Dressings are for use as a topical treatment only.",
+          "score": 0.9918271899223328,
+          "box": [
+            18.0,
+            2598.0,
+            719.0,
+            2646.0
+          ],
+          "polygon": [
+            [
+              18.0,
+              2598.0
+            ],
+            [
+              719.0,
+              2616.0
+            ],
+            [
+              718.0,
+              2646.0
+            ],
+            [
+              18.0,
+              2628.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "nexoleW",
+          "score": 0.585870623588562,
+          "box": [
+            605.0,
+            2595.0,
+            707.0,
+            2619.0
+          ],
+          "polygon": [
+            [
+              605.0,
+              2595.0
+            ],
+            [
+              707.0,
+              2595.0
+            ],
+            [
+              707.0,
+              2619.0
+            ],
+            [
+              605.0,
+              2619.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "Principes actifs: Hyaluronate de sodium 0,20 g, sulfadiazine argentique 1 g.",
+          "score": 0.995090663433075,
+          "box": [
+            895.0,
+            2598.0,
+            1977.0,
+            2671.0
+          ],
+          "polygon": [
+            [
+              896.0,
+              2598.0
+            ],
+            [
+              1977.0,
+              2620.0
+            ],
+            [
+              1976.0,
+              2671.0
+            ],
+            [
+              895.0,
+              2648.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "BACTIGRAS Dressings are indicated for a wide range of os)",
+          "score": 0.9617782831192017,
+          "box": [
+            15.0,
+            2624.0,
+            706.0,
+            2676.0
+          ],
+          "polygon": [
+            [
+              15.0,
+              2624.0
+            ],
+            [
+              706.0,
+              2643.0
+            ],
+            [
+              705.0,
+              2676.0
+            ],
+            [
+              15.0,
+              2657.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "Excipients: acide oléique 5 g, cire E 2,00 g, glycérol 1,50 g, macrogol 4000 10 g,",
+          "score": 0.9951749444007874,
+          "box": [
+            895.0,
+            2642.0,
+            2068.0,
+            2714.0
+          ],
+          "polygon": [
+            [
+              896.0,
+              2642.0
+            ],
+            [
+              2068.0,
+              2664.0
+            ],
+            [
+              2067.0,
+              2714.0
+            ],
+            [
+              895.0,
+              2692.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "wounds where there is a risk of infection, or on already",
+          "score": 0.9886961579322815,
+          "box": [
+            28.0,
+            2658.0,
+            647.0,
+            2700.0
+          ],
+          "polygon": [
+            [
+              28.0,
+              2658.0
+            ],
+            [
+              647.0,
+              2672.0
+            ],
+            [
+              646.0,
+              2700.0
+            ],
+            [
+              28.0,
+              2686.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "infected wounds in conjunction with systemic antibacterial",
+          "score": 0.9942131638526917,
+          "box": [
+            27.0,
+            2686.0,
+            701.0,
+            2731.0
+          ],
+          "polygon": [
+            [
+              27.0,
+              2686.0
+            ],
+            [
+              701.0,
+              2702.0
+            ],
+            [
+              700.0,
+              2731.0
+            ],
+            [
+              27.0,
+              2715.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "sorbitol solution (70 per cent) 1,50 g, eau purifiée q.s.p.100 g.",
+          "score": 0.9977214932441711,
+          "box": [
+            894.0,
+            2683.0,
+            1793.0,
+            2752.0
+          ],
+          "polygon": [
+            [
+              895.0,
+              2683.0
+            ],
+            [
+              1793.0,
+              2704.0
+            ],
+            [
+              1792.0,
+              2752.0
+            ],
+            [
+              894.0,
+              2731.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "agents. The range of wounds on which BACTIGRAS Dressings",
+          "score": 0.9853497743606567,
+          "box": [
+            25.0,
+            2714.0,
+            718.0,
+            2762.0
+          ],
+          "polygon": [
+            [
+              25.0,
+              2714.0
+            ],
+            [
+              718.0,
+              2733.0
+            ],
+            [
+              717.0,
+              2762.0
+            ],
+            [
+              25.0,
+              2744.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "CONNETTIVA PLUS 2 mg + 40 mg Compresses imprégnées",
+          "score": 0.9739792346954346,
+          "box": [
+            897.0,
+            2732.0,
+            1745.0,
+            2795.0
+          ],
+          "polygon": [
+            [
+              898.0,
+              2732.0
+            ],
+            [
+              1745.0,
+              2752.0
+            ],
+            [
+              1744.0,
+              2795.0
+            ],
+            [
+              897.0,
+              2776.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "may be used include:",
+          "score": 0.9973243474960327,
+          "box": [
+            30.0,
+            2746.0,
+            285.0,
+            2777.0
+          ],
+          "polygon": [
+            [
+              30.0,
+              2746.0
+            ],
+            [
+              285.0,
+              2750.0
+            ],
+            [
+              285.0,
+              2777.0
+            ],
+            [
+              30.0,
+              2773.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "minor burns and scalds",
+          "score": 0.9930313229560852,
+          "box": [
+            31.0,
+            2775.0,
+            314.0,
+            2809.0
+          ],
+          "polygon": [
+            [
+              31.0,
+              2775.0
+            ],
+            [
+              314.0,
+              2781.0
+            ],
+            [
+              314.0,
+              2809.0
+            ],
+            [
+              31.0,
+              2803.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "psolen",
+          "score": 0.8341317176818848,
+          "box": [
+            620.0,
+            2782.0,
+            705.0,
+            2811.0
+          ],
+          "polygon": [
+            [
+              620.0,
+              2782.0
+            ],
+            [
+              705.0,
+              2782.0
+            ],
+            [
+              705.0,
+              2811.0
+            ],
+            [
+              620.0,
+              2811.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "Chaque compresse de 10 X 10 cm est imprégnée de 4 g de crème dont la",
+          "score": 0.9775338172912598,
+          "box": [
+            894.0,
+            2778.0,
+            1944.0,
+            2849.0
+          ],
+          "polygon": [
+            [
+              895.0,
+              2778.0
+            ],
+            [
+              1944.0,
+              2798.0
+            ],
+            [
+              1943.0,
+              2849.0
+            ],
+            [
+              894.0,
+              2829.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "lacerations, abrasions and other skin loss wounds",
+          "score": 0.9875089526176453,
+          "box": [
+            27.0,
+            2801.0,
+            605.0,
+            2849.0
+          ],
+          "polygon": [
+            [
+              27.0,
+              2801.0
+            ],
+            [
+              605.0,
+              2809.0
+            ],
+            [
+              605.0,
+              2849.0
+            ],
+            [
+              27.0,
+              2841.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "endomb",
+          "score": 0.7415052056312561,
+          "box": [
+            602.0,
+            2806.0,
+            706.0,
+            2836.0
+          ],
+          "polygon": [
+            [
+              602.0,
+              2808.0
+            ],
+            [
+              705.0,
+              2806.0
+            ],
+            [
+              706.0,
+              2834.0
+            ],
+            [
+              603.0,
+              2836.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "donor and recipient graft siteswat Wocreszord zsim",
+          "score": 0.8385729789733887,
+          "box": [
+            23.0,
+            2827.0,
+            702.0,
+            2893.0
+          ],
+          "polygon": [
+            [
+              25.0,
+              2827.0
+            ],
+            [
+              702.0,
+              2859.0
+            ],
+            [
+              700.0,
+              2893.0
+            ],
+            [
+              23.0,
+              2861.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "ise yno",
+          "score": 0.5571881532669067,
+          "box": [
+            591.0,
+            2837.0,
+            702.0,
+            2862.0
+          ],
+          "polygon": [
+            [
+              591.0,
+              2837.0
+            ],
+            [
+              702.0,
+              2837.0
+            ],
+            [
+              702.0,
+              2862.0
+            ],
+            [
+              591.0,
+              2862.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "Contraindications",
+          "score": 0.9998597502708435,
+          "box": [
+            23.0,
+            2864.0,
+            241.0,
+            2900.0
+          ],
+          "polygon": [
+            [
+              24.0,
+              2864.0
+            ],
+            [
+              241.0,
+              2872.0
+            ],
+            [
+              240.0,
+              2900.0
+            ],
+            [
+              23.0,
+              2892.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "Do not use on more than 10% of the body surface area.",
+          "score": 0.9920117259025574,
+          "box": [
+            30.0,
+            2889.0,
+            698.0,
+            2947.0
+          ],
+          "polygon": [
+            [
+              32.0,
+              2889.0
+            ],
+            [
+              698.0,
+              2910.0
+            ],
+            [
+              697.0,
+              2947.0
+            ],
+            [
+              30.0,
+              2926.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "insselawwiassg",
+          "score": 0.8253837823867798,
+          "box": [
+            491.0,
+            2893.0,
+            699.0,
+            2918.0
+          ],
+          "polygon": [
+            [
+              491.0,
+              2893.0
+            ],
+            [
+              699.0,
+              2895.0
+            ],
+            [
+              698.0,
+              2918.0
+            ],
+            [
+              491.0,
+              2915.0
+            ]
+          ],
+          "page_index": 0
+        },
+        {
+          "text": "ty or allergy to",
+          "score": 0.9675855040550232,
+          "box": [
+            528.0,
+            2939.0,
+            691.0,
+            2966.0
+          ],
+          "polygon": [
+            [
+              529.0,
+              2939.0
+            ],
+            [
+              691.0,
+              2943.0
+            ],
+            [
+              690.0,
+              2966.0
+            ],
+            [
+              528.0,
+              2963.0
+            ]
+          ],
+          "page_index": 0
+        }
+      ],
+      "source_image": "data\\tmp\\page_7d1455526c3f467eb1f492b807c6b87b.png",
+      "page_index": 0
+    }
+  ]
+}

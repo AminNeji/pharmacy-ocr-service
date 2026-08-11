@@ -1,0 +1,40 @@
+{
+  "source_file": "QNyMSULXX7AP6EOw6hp7iFN7JcwZADJQx6DZxAgSEKo7oyffOq831281798857548127.pdf",
+  "status": "needs_review",
+  "items": [
+    {
+      "REFCODE": null,
+      "MED": "LES",
+      "QT": null,
+      "prix": 137.88,
+      "unit_price": 22.0,
+      "confidence": 0.8734
+    }
+  ],
+  "warnings": [
+    "quantity could not be determined for: LES 22 000 Articles N°Ordon. 0 45.960 137.880",
+    "invoice total could not be detected, so the checksum was skipped"
+  ],
+  "error": null,
+  "invoice_total": null,
+  "items_total": 137.88,
+  "checksum_ok": null,
+  "page_count": 1,
+  "extraction_mode": "deterministic",
+  "ocr_engine": "paddleocr",
+  "service_version": "3.1.0",
+  "processed_at": "2026-07-31T11:52:19.196130Z",
+  "timings": {
+    "primary_preprocessing_s": 13.96,
+    "preprocessing_s": 13.96,
+    "primary_ocr_s": 65.57,
+    "ocr_s": 65.57,
+    "parsing_s": 0.001,
+    "retry_preprocessing_s": 7.24,
+    "retry_ocr_s": 56.81,
+    "retry_deep_preprocessing_s": 7.23,
+    "retry_deep_ocr_s": 68.14,
+    "ocr_retry_used": 1.0,
+    "total_s": 218.98
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "source_file": "XFQDzHDa98x4jmiO0zxpoWhUwDPZKvDvl1zBjggWKR69PQ63nE2440928446286890756.pdf",
+  "status": "ok",
+  "items": [
+    {
+      "REFCODE": "20180815110246",
+      "MED": "ALEOMIG BT/60",
+      "QT": 1,
+      "prix": 47.6,
+      "unit_price": 47.6,
+      "confidence": 0.9989
+    },
+    {
+      "REFCODE": "20180411105504",
+      "MED": "CEFACALM BT/15",
+      "QT": 1,
+      "prix": 14.323,
+      "unit_price": 14.323,
+      "confidence": 0.9981
+    }
+  ],
+  "warnings": [],
+  "error": null,
+  "invoice_total": 61.923,
+  "items_total": 61.923,
+  "checksum_ok": true,
+  "page_count": 1,
+  "extraction_mode": "deterministic",
+  "ocr_engine": "paddleocr",
+  "service_version": "3.1.0",
+  "processed_at": "2026-07-31T12:09:12.234710Z",
+  "timings": {
+    "primary_preprocessing_s": 0.36,
+    "preprocessing_s": 0.36,
+    "primary_ocr_s": 68.24,
+    "ocr_s": 68.24,
+    "parsing_s": 0.002,
+    "total_s": 68.62
+  }
+}

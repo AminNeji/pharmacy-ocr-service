@@ -1,0 +1,40 @@
+{
+  "source_file": "Mx29o1Ay7237j865qy2BMN3mZWqK3DqumHxDN1nKweuD4vD8Y47897992854058358619.pdf",
+  "status": "ok",
+  "items": [
+    {
+      "REFCODE": "0D000U",
+      "MED": "VISSEN 20MG B/30",
+      "QT": 1,
+      "prix": 38.44,
+      "unit_price": 38.44,
+      "confidence": 0.9636
+    },
+    {
+      "REFCODE": "301812",
+      "MED": "PLAVIX 75 MG CP BT28 LOCAL",
+      "QT": 1,
+      "prix": 73.525,
+      "unit_price": 73.525,
+      "confidence": 0.9223
+    }
+  ],
+  "warnings": [],
+  "error": null,
+  "invoice_total": 111.965,
+  "items_total": 111.965,
+  "checksum_ok": true,
+  "page_count": 1,
+  "extraction_mode": "deterministic",
+  "ocr_engine": "paddleocr",
+  "service_version": "3.1.0",
+  "processed_at": "2026-07-31T11:32:54.401898Z",
+  "timings": {
+    "primary_preprocessing_s": 0.24,
+    "preprocessing_s": 0.24,
+    "primary_ocr_s": 58.18,
+    "ocr_s": 58.18,
+    "parsing_s": 0.001,
+    "total_s": 58.47
+  }
+}

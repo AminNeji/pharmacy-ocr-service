@@ -1,0 +1,37 @@
+{
+  "source_file": "OyTwOFsqNrhgXdmJh84Z6atIVY2KkaBUXHaC0UvCKChtGafaWO3659747288270678709.pdf",
+  "status": "ok",
+  "items": [
+    {
+      "REFCODE": "302701",
+      "MED": "CYCLOFF 400MG COMP. BT 20",
+      "QT": 20,
+      "prix": 5.095,
+      "unit_price": 5.095,
+      "confidence": 0.9772
+    },
+    {
+      "REFCODE": "301617",
+      "MED": "DOGMACARE B/30GEL",
+      "QT": 1,
+      "prix": 5.51,
+      "unit_price": 5.51,
+      "confidence": 0.9638
+    }
+  ],
+  "warnings": [],
+  "error": null,
+  "invoice_total": 10.605,
+  "items_total": 10.605,
+  "checksum_ok": true,
+  "page_count": 1,
+  "extraction_mode": "deterministic",
+  "ocr_engine": "paddleocr",
+  "service_version": "3.2.0",
+  "processed_at": "2026-07-31T13:11:45.517894Z",
+  "timings": {
+    "primary_ocr_cache_hit": 1.0,
+    "parsing_s": 0.001,
+    "total_s": 0.01
+  }
+}

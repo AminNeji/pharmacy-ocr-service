@@ -1,0 +1,12 @@
+{
+  "generated_at": "2026-07-31T14:14:06",
+  "service_version": "3.2.0",
+  "input_dir": "data\\invoices",
+  "invoices": 84,
+  "ok": 63,
+  "needs_review": 21,
+  "failed": 0,
+  "skipped": 0,
+  "elapsed_s": 509.1,
+  "seconds_per_invoice": 6.1
+}

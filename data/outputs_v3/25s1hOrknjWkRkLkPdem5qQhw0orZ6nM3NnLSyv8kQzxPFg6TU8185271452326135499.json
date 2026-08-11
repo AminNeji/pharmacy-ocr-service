@@ -1,0 +1,32 @@
+{
+  "source_file": "25s1hOrknjWkRkLkPdem5qQhw0orZ6nM3NnLSyv8kQzxPFg6TU8185271452326135499.pdf",
+  "status": "ok",
+  "items": [
+    {
+      "REFCODE": null,
+      "MED": "TERCYD 250MG BT/30 CP",
+      "QT": 1,
+      "prix": 63.865,
+      "unit_price": null,
+      "confidence": 0.9974
+    }
+  ],
+  "warnings": [],
+  "error": null,
+  "invoice_total": 63.865,
+  "items_total": 63.865,
+  "checksum_ok": true,
+  "page_count": 1,
+  "extraction_mode": "deterministic",
+  "ocr_engine": "paddleocr",
+  "service_version": "3.1.0",
+  "processed_at": "2026-07-31T10:42:05.400011Z",
+  "timings": {
+    "primary_preprocessing_s": 6.1,
+    "preprocessing_s": 6.1,
+    "primary_ocr_s": 44.37,
+    "ocr_s": 44.37,
+    "parsing_s": 0.002,
+    "total_s": 50.49
+  }
+}

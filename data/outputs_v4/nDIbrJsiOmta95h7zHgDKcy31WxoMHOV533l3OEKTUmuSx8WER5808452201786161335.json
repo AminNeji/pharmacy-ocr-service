@@ -1,0 +1,39 @@
+{
+  "source_file": "nDIbrJsiOmta95h7zHgDKcy31WxoMHOV533l3OEKTUmuSx8WER5808452201786161335.pdf",
+  "status": "ok",
+  "items": [
+    {
+      "REFCODE": "300883",
+      "MED": "TERCYD 250MG BT/30 CP",
+      "QT": 1,
+      "prix": 63.865,
+      "unit_price": 63.865,
+      "confidence": 0.9967
+    },
+    {
+      "REFCODE": "101288",
+      "MED": "LOCERYL 5% FL/2.5ML",
+      "QT": 1,
+      "prix": 51.195,
+      "unit_price": 51.195,
+      "confidence": 0.9203
+    }
+  ],
+  "warnings": [],
+  "error": null,
+  "invoice_total": 115.06,
+  "items_total": 115.06,
+  "checksum_ok": true,
+  "page_count": 1,
+  "extraction_mode": "deterministic",
+  "ocr_engine": "paddleocr",
+  "service_version": "3.2.0",
+  "processed_at": "2026-07-31T13:11:00.431560Z",
+  "timings": {
+    "primary_ocr_cache_hit": 1.0,
+    "parsing_s": 0.002,
+    "retry_ocr_cache_hit": 1.0,
+    "ocr_retry_used": 1.0,
+    "total_s": 0.03
+  }
+}

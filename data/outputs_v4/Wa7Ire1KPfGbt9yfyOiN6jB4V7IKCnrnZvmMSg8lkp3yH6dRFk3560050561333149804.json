@@ -1,0 +1,53 @@
+{
+  "source_file": "Wa7Ire1KPfGbt9yfyOiN6jB4V7IKCnrnZvmMSg8lkp3yH6dRFk3560050561333149804.jpg",
+  "status": "ok",
+  "items": [
+    {
+      "REFCODE": "301116",
+      "MED": "XEDOL EMULGEL1%",
+      "QT": 1,
+      "prix": 5.88,
+      "unit_price": 5.88,
+      "confidence": 0.9967
+    },
+    {
+      "REFCODE": "301620",
+      "MED": "MIOREL BT/24CP",
+      "QT": 1,
+      "prix": 10.845,
+      "unit_price": 10.845,
+      "confidence": 0.9924
+    },
+    {
+      "REFCODE": "302842",
+      "MED": "ROMPALGINE 400 B20 CP",
+      "QT": 1,
+      "prix": 5.125,
+      "unit_price": 5.125,
+      "confidence": 0.9941
+    },
+    {
+      "REFCODE": "303388",
+      "MED": "PROFENID 100 B/30",
+      "QT": 1,
+      "prix": 12.525,
+      "unit_price": 12.525,
+      "confidence": 0.9996
+    }
+  ],
+  "warnings": [],
+  "error": null,
+  "invoice_total": 34.375,
+  "items_total": 34.375,
+  "checksum_ok": true,
+  "page_count": 1,
+  "extraction_mode": "deterministic",
+  "ocr_engine": "paddleocr",
+  "service_version": "3.2.0",
+  "processed_at": "2026-07-31T13:12:12.395889Z",
+  "timings": {
+    "primary_ocr_cache_hit": 1.0,
+    "parsing_s": 0.001,
+    "total_s": 0.02
+  }
+}

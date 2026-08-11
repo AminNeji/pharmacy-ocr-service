@@ -1,0 +1,52 @@
+{
+  "source_file": "w9cAblfb1wSVfTMk1urQCtGVEH4nPvL26WQ8gjz5xllNEay3H22371118909824190294.pdf",
+  "status": "needs_review",
+  "items": [
+    {
+      "REFCODE": null,
+      "MED": "MEDIMARISOTONC SPRAY NASAL e",
+      "QT": 1,
+      "prix": 20.915,
+      "unit_price": 20.915,
+      "confidence": 0.8239
+    },
+    {
+      "REFCODE": "307783",
+      "MED": "EFFERALGAN SP FU9OML/ SIROP †",
+      "QT": 1,
+      "prix": 3.29,
+      "unit_price": 3.29,
+      "confidence": 0.8748
+    },
+    {
+      "REFCODE": "401015",
+      "MED": "CAMILIA SOL BUV BT 30/ AMP",
+      "QT": 1,
+      "prix": 29.81,
+      "unit_price": 29.61,
+      "confidence": 0.8814
+    }
+  ],
+  "warnings": [
+    "quantity could not be determined for: T61071.398 068",
+    "item 4 dropped (medicine name is too short to be reliable): {'REFCODE': None, 'MED': 'T61071', 'QT': None, 'prix': 398.068, 'unit_price': None, 'confidence': 0.8386}",
+    "checksum failed: item total 54.015 differs from invoice total 53.815"
+  ],
+  "error": null,
+  "invoice_total": 53.815,
+  "items_total": 54.015,
+  "checksum_ok": false,
+  "page_count": 1,
+  "extraction_mode": "deterministic",
+  "ocr_engine": "paddleocr",
+  "service_version": "3.1.0",
+  "processed_at": "2026-07-29T23:36:23.039994Z",
+  "timings": {
+    "primary_ocr_cache_hit": 1.0,
+    "parsing_s": 0.001,
+    "retry_ocr_cache_hit": 1.0,
+    "retry_deep_ocr_cache_hit": 1.0,
+    "ocr_retry_used": 0.0,
+    "total_s": 0.03
+  }
+}

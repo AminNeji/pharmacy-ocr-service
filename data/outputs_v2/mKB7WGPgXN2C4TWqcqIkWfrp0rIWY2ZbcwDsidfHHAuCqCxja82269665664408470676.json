@@ -1,0 +1,48 @@
+{
+  "source_file": "mKB7WGPgXN2C4TWqcqIkWfrp0rIWY2ZbcwDsidfHHAuCqCxja82269665664408470676.pdf",
+  "status": "ok",
+  "items": [
+    {
+      "REFCODE": "307322",
+      "MED": "PHYSIOL 5 ML BT/10 GOUTTE NASAL P GOUTTE10",
+      "QT": 10,
+      "prix": 24.79,
+      "unit_price": 2.479,
+      "confidence": 0.9973
+    },
+    {
+      "REFCODE": "307540",
+      "MED": "ECOREX 1% CREME 30GR CREME",
+      "QT": 1,
+      "prix": 5.395,
+      "unit_price": 5.395,
+      "confidence": 0.9988
+    },
+    {
+      "REFCODE": "302338",
+      "MED": "TOBRACOL 3 M 0.3 % COLLYRE FL 5M COLLYR",
+      "QT": 1,
+      "prix": 3.631,
+      "unit_price": 3.631,
+      "confidence": 0.9959
+    }
+  ],
+  "warnings": [],
+  "error": null,
+  "invoice_total": 33.816,
+  "items_total": 33.816,
+  "checksum_ok": true,
+  "page_count": 1,
+  "extraction_mode": "deterministic",
+  "ocr_engine": "paddleocr",
+  "service_version": "3.1.0",
+  "processed_at": "2026-07-29T23:36:22.532796Z",
+  "timings": {
+    "primary_ocr_cache_hit": 1.0,
+    "parsing_s": 0.001,
+    "retry_ocr_cache_hit": 1.0,
+    "retry_deep_ocr_cache_hit": 1.0,
+    "ocr_retry_used": 1.0,
+    "total_s": 0.03
+  }
+}

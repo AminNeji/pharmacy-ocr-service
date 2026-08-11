@@ -1,0 +1,33 @@
+{
+  "source_file": "AZNGkdT4TbMxihikD0OHYljfNDSykrqFBuQR35VkaL6nwXAFSO6544529724585300141.pdf",
+  "status": "needs_review",
+  "items": [],
+  "warnings": [
+    "quantity could not be determined for: Té1: 71 398 058CHBEDDA",
+    "item 1 dropped (medicine name is too short to be reliable): {'REFCODE': None, 'MED': 'Té1', 'QT': None, 'prix': 71.398, 'unit_price': None, 'confidence': 0.9216}",
+    "all mapped items failed validation",
+    "checksum failed: item total 0.000 differs from invoice total 163.980"
+  ],
+  "error": null,
+  "invoice_total": 163.98,
+  "items_total": 0.0,
+  "checksum_ok": false,
+  "page_count": 1,
+  "extraction_mode": "deterministic",
+  "ocr_engine": "paddleocr",
+  "service_version": "3.2.0",
+  "processed_at": "2026-08-03T13:11:33.840482Z",
+  "timings": {
+    "primary_preprocessing_s": 0.4,
+    "preprocessing_s": 0.4,
+    "primary_ocr_s": 31.89,
+    "ocr_s": 31.89,
+    "parsing_s": 0.003,
+    "retry_preprocessing_s": 0.5,
+    "retry_ocr_s": 40.62,
+    "retry_deep_preprocessing_s": 0.63,
+    "retry_deep_ocr_s": 50.34,
+    "ocr_retry_used": 0.0,
+    "total_s": 124.41
+  }
+}

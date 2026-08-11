@@ -1,0 +1,39 @@
+{
+  "source_file": "invoice1.jpeg",
+  "status": "needs_review",
+  "items": [
+    {
+      "REFCODE": null,
+      "MED": "BIOHERBS VITAMINES B COMPLEXE B",
+      "QT": 1,
+      "prix": 28.821,
+      "unit_price": 28.821,
+      "confidence": 0.9991
+    },
+    {
+      "REFCODE": null,
+      "MED": "IBUCARE 600 MG COMP BT/20 COMPRI",
+      "QT": 1,
+      "prix": 6.551,
+      "unit_price": 6.551,
+      "confidence": 0.9971
+    }
+  ],
+  "warnings": [
+    "checksum failed: item total 35.372 differs from invoice total 43.545"
+  ],
+  "error": null,
+  "invoice_total": 43.545,
+  "items_total": 35.372,
+  "checksum_ok": false,
+  "page_count": 1,
+  "extraction_mode": "deterministic",
+  "ocr_engine": "paddleocr",
+  "service_version": "3.1.0",
+  "processed_at": "2026-07-29T23:36:22.286091Z",
+  "timings": {
+    "primary_ocr_cache_hit": 1.0,
+    "parsing_s": 0.001,
+    "total_s": 0.01
+  }
+}

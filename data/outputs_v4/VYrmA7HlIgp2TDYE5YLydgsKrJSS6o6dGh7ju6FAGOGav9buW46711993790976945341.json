@@ -1,0 +1,37 @@
+{
+  "source_file": "VYrmA7HlIgp2TDYE5YLydgsKrJSS6o6dGh7ju6FAGOGav9buW46711993790976945341.pdf",
+  "status": "ok",
+  "items": [
+    {
+      "REFCODE": null,
+      "MED": "CARBOFAUS BALLONEMENTS",
+      "QT": 1,
+      "prix": 14.994,
+      "unit_price": 14.994,
+      "confidence": 0.9053
+    },
+    {
+      "REFCODE": "103343",
+      "MED": "METEOXANE B/60GEL",
+      "QT": 1,
+      "prix": 6.914,
+      "unit_price": 6.914,
+      "confidence": 0.9917
+    }
+  ],
+  "warnings": [],
+  "error": null,
+  "invoice_total": 21.908,
+  "items_total": 21.908,
+  "checksum_ok": true,
+  "page_count": 1,
+  "extraction_mode": "deterministic",
+  "ocr_engine": "paddleocr",
+  "service_version": "3.2.0",
+  "processed_at": "2026-07-31T13:12:12.306346Z",
+  "timings": {
+    "primary_ocr_cache_hit": 1.0,
+    "parsing_s": 0.001,
+    "total_s": 0.01
+  }
+}

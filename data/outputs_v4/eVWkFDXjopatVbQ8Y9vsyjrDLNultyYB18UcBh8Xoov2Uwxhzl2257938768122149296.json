@@ -1,0 +1,71 @@
+{
+  "source_file": "eVWkFDXjopatVbQ8Y9vsyjrDLNultyYB18UcBh8Xoov2Uwxhzl2257938768122149296.pdf",
+  "status": "needs_review",
+  "items": [
+    {
+      "REFCODE": null,
+      "MED": "ADOL 1000MG COMP SEC B/8",
+      "QT": 3,
+      "prix": 9.33,
+      "unit_price": 3.11,
+      "confidence": 0.9997
+    },
+    {
+      "REFCODE": null,
+      "MED": "OPTIFER 14MG A CROQUER.B/60",
+      "QT": 1,
+      "prix": 25.77,
+      "unit_price": 25.77,
+      "confidence": 0.9966
+    },
+    {
+      "REFCODE": null,
+      "MED": "OPTIFER 14MG A CROQUER.B/30",
+      "QT": 1,
+      "prix": 14.5,
+      "unit_price": 14.5,
+      "confidence": 0.9986
+    },
+    {
+      "REFCODE": null,
+      "MED": "CYTOLNAT INTIMA GEL INTIME F/10C",
+      "QT": 1,
+      "prix": 13.0,
+      "unit_price": 13.0,
+      "confidence": 0.9835
+    },
+    {
+      "REFCODE": null,
+      "MED": "2 LAXAGEL 120MG B/6 (NORGALAX)",
+      "QT": 1,
+      "prix": 99.0,
+      "unit_price": 99.0,
+      "confidence": 0.7544
+    },
+    {
+      "REFCODE": null,
+      "MED": "Too. Ttc5.24547",
+      "QT": 40,
+      "prix": 52.285,
+      "unit_price": null,
+      "confidence": 0.8889
+    }
+  ],
+  "warnings": [
+    "invoice total could not be detected, so the checksum was skipped"
+  ],
+  "error": null,
+  "invoice_total": null,
+  "items_total": 213.885,
+  "checksum_ok": null,
+  "page_count": 2,
+  "extraction_mode": "deterministic",
+  "ocr_engine": "paddleocr",
+  "service_version": "3.2.0",
+  "processed_at": "2026-07-31T13:08:10.808914Z",
+  "timings": {
+    "primary_ocr_cache_hit": 1.0,
+    "parsing_s": 0.003,
+    "total_s": 0.06
+  }
+}

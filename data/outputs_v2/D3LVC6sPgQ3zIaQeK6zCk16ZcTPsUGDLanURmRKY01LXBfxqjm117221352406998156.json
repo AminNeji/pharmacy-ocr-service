@@ -1,0 +1,24 @@
+{
+  "source_file": "D3LVC6sPgQ3zIaQeK6zCk16ZcTPsUGDLanURmRKY01LXBfxqjm117221352406998156.jpg",
+  "status": "needs_review",
+  "items": [],
+  "warnings": [
+    "deterministic parser found no invoice rows",
+    "no invoice items found despite non-empty OCR text",
+    "checksum failed: item total 0.000 differs from invoice total 29.910"
+  ],
+  "error": null,
+  "invoice_total": 29.91,
+  "items_total": 0.0,
+  "checksum_ok": false,
+  "page_count": 1,
+  "extraction_mode": "deterministic",
+  "ocr_engine": "paddleocr",
+  "service_version": "3.1.0",
+  "processed_at": "2026-07-29T23:36:22.083309Z",
+  "timings": {
+    "primary_ocr_cache_hit": 1.0,
+    "parsing_s": 0.001,
+    "total_s": 0.01
+  }
+}

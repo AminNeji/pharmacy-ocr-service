@@ -1,0 +1,37 @@
+{
+  "source_file": "yda0BRDiQvdnSWHoVctA0pgDZZJrwJXEfEg4sYyId9tT6z4sh16273302813521559270.pdf",
+  "status": "ok",
+  "items": [
+    {
+      "REFCODE": "102222",
+      "MED": "OVITRELLE 250 μG INJ E/1",
+      "QT": 1,
+      "prix": 22.879,
+      "unit_price": 22.879,
+      "confidence": 0.949
+    },
+    {
+      "REFCODE": "302982",
+      "MED": "PROGEST",
+      "QT": 1,
+      "prix": 33.725,
+      "unit_price": 400.4,
+      "confidence": 0.9963
+    }
+  ],
+  "warnings": [],
+  "error": null,
+  "invoice_total": 56.604,
+  "items_total": 56.604,
+  "checksum_ok": true,
+  "page_count": 1,
+  "extraction_mode": "deterministic",
+  "ocr_engine": "paddleocr",
+  "service_version": "3.1.0",
+  "processed_at": "2026-07-29T23:36:23.077170Z",
+  "timings": {
+    "primary_ocr_cache_hit": 1.0,
+    "parsing_s": 0.001,
+    "total_s": 0.0
+  }
+}

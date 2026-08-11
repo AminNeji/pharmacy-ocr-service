@@ -1,0 +1,55 @@
+{
+  "source_file": "s9qippZSaNS2kKju4TzmENJm3xJRwoGEGX5BWg0La1cI3qZUwI1958824847947198479.pdf",
+  "status": "needs_review",
+  "items": [
+    {
+      "REFCODE": "303543",
+      "MED": "COMPRI",
+      "QT": 1,
+      "prix": 28.203,
+      "unit_price": 28.203,
+      "confidence": 0.9983
+    },
+    {
+      "REFCODE": "302250",
+      "MED": "D MA",
+      "QT": 1,
+      "prix": 7.48,
+      "unit_price": 200.0,
+      "confidence": 0.9957
+    },
+    {
+      "REFCODE": "20251204164812",
+      "MED": "VITAL FERSANG BT",
+      "QT": 30,
+      "prix": 18.95,
+      "unit_price": 18.95,
+      "confidence": 0.9998
+    }
+  ],
+  "warnings": [
+    "checksum failed: item total 54.633 differs from invoice total 80.823"
+  ],
+  "error": null,
+  "invoice_total": 80.823,
+  "items_total": 54.633,
+  "checksum_ok": false,
+  "page_count": 1,
+  "extraction_mode": "deterministic",
+  "ocr_engine": "paddleocr",
+  "service_version": "3.1.0",
+  "processed_at": "2026-07-31T11:56:54.321088Z",
+  "timings": {
+    "primary_preprocessing_s": 3.22,
+    "preprocessing_s": 3.22,
+    "primary_ocr_s": 55.51,
+    "ocr_s": 55.51,
+    "parsing_s": 0.002,
+    "retry_preprocessing_s": 7.11,
+    "retry_ocr_s": 72.4,
+    "retry_deep_preprocessing_s": 9.73,
+    "retry_deep_ocr_s": 84.36,
+    "ocr_retry_used": 0.0,
+    "total_s": 232.36
+  }
+}

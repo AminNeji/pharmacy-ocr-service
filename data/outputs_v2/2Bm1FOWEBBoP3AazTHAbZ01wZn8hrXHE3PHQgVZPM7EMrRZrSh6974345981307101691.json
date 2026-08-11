@@ -1,0 +1,53 @@
+{
+  "source_file": "2Bm1FOWEBBoP3AazTHAbZ01wZn8hrXHE3PHQgVZPM7EMrRZrSh6974345981307101691.pdf",
+  "status": "ok",
+  "items": [
+    {
+      "REFCODE": "102474",
+      "MED": "TIORFAN 30 SA EN B/30SA",
+      "QT": 1,
+      "prix": 22.44,
+      "unit_price": 22.44,
+      "confidence": 0.9789
+    },
+    {
+      "REFCODE": "000000",
+      "MED": "ENTEROGERMINA B/10 FL",
+      "QT": 1,
+      "prix": 7.915,
+      "unit_price": 7.915,
+      "confidence": 0.9504
+    },
+    {
+      "REFCODE": "301895",
+      "MED": "NOVASFON 80 MG B/20 CP DISP",
+      "QT": 1,
+      "prix": 6.57,
+      "unit_price": 8.57,
+      "confidence": 0.9566
+    },
+    {
+      "REFCODE": "000000",
+      "MED": "VOMINAT SP FL/120 ML",
+      "QT": 1,
+      "prix": 16.3,
+      "unit_price": 16.3,
+      "confidence": 0.9754
+    }
+  ],
+  "warnings": [],
+  "error": null,
+  "invoice_total": 53.225,
+  "items_total": 53.225,
+  "checksum_ok": true,
+  "page_count": 1,
+  "extraction_mode": "deterministic",
+  "ocr_engine": "paddleocr",
+  "service_version": "3.1.0",
+  "processed_at": "2026-07-29T23:36:21.755825Z",
+  "timings": {
+    "primary_ocr_cache_hit": 1.0,
+    "parsing_s": 0.001,
+    "total_s": 0.01
+  }
+}

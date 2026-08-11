@@ -1,0 +1,42 @@
+{
+  "source_file": "KjJdFfQpO9fvVGUMsvCt6MePGejI83mxHFbyrsTUV0IorJR9814127061790225633534.jpg",
+  "status": "ok",
+  "items": [
+    {
+      "REFCODE": null,
+      "MED": "ALBIFER 120MG BT/30",
+      "QT": 3,
+      "prix": 48.426,
+      "unit_price": 16.142,
+      "confidence": 0.9812
+    },
+    {
+      "REFCODE": "105805",
+      "MED": "VIT D3 BON AMP IM BUV",
+      "QT": 2,
+      "prix": 9.4,
+      "unit_price": 4.7,
+      "confidence": 0.9836
+    }
+  ],
+  "warnings": [],
+  "error": null,
+  "invoice_total": 57.826,
+  "items_total": 57.826,
+  "checksum_ok": true,
+  "page_count": 1,
+  "extraction_mode": "deterministic",
+  "ocr_engine": "paddleocr",
+  "service_version": "3.2.0",
+  "processed_at": "2026-07-31T13:11:00.135258Z",
+  "timings": {
+    "primary_ocr_cache_hit": 1.0,
+    "parsing_s": 0.001,
+    "rot180_preprocessing_s": 2.76,
+    "rot180_ocr_s": 40.57,
+    "rot270_preprocessing_s": 0.21,
+    "rot270_ocr_s": 63.65,
+    "orientation_degrees": 270.0,
+    "total_s": 107.21
+  }
+}

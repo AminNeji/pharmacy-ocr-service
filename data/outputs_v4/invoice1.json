@@ -1,0 +1,45 @@
+{
+  "source_file": "invoice1.jpeg",
+  "status": "ok",
+  "items": [
+    {
+      "REFCODE": "20260324094613",
+      "MED": "BIOHERBS VITAMINES B COMPLEXE B",
+      "QT": 1,
+      "prix": 28.821,
+      "unit_price": 28.821,
+      "confidence": 0.9992
+    },
+    {
+      "REFCODE": "300973",
+      "MED": "PROFENID 100 MG COMP B/15",
+      "QT": 1,
+      "prix": 8.173,
+      "unit_price": 8.173,
+      "confidence": 0.9934
+    },
+    {
+      "REFCODE": "301804",
+      "MED": "IBUCARE 600 MG COMP BT/20",
+      "QT": 1,
+      "prix": 6.551,
+      "unit_price": 6.551,
+      "confidence": 0.9975
+    }
+  ],
+  "warnings": [],
+  "error": null,
+  "invoice_total": 43.545,
+  "items_total": 43.545,
+  "checksum_ok": true,
+  "page_count": 1,
+  "extraction_mode": "deterministic",
+  "ocr_engine": "paddleocr",
+  "service_version": "3.2.0",
+  "processed_at": "2026-07-31T13:09:06.389943Z",
+  "timings": {
+    "primary_ocr_cache_hit": 1.0,
+    "parsing_s": 0.002,
+    "total_s": 0.01
+  }
+}

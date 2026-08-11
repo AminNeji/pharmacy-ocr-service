@@ -1,0 +1,90 @@
+{
+  "source_file": "P3lyzKUOuiWshtY5LKeZb2hcfmL8Ww6scaJKeYQ5CGc919qMUO7799056197429771581.pdf",
+  "status": "needs_review",
+  "items": [
+    {
+      "REFCODE": "5060482120011",
+      "MED": "MULTIPRO JUNIOR SIROP FL 120ML",
+      "QT": 1,
+      "prix": 28.0,
+      "unit_price": 28.0,
+      "confidence": 0.9874
+    },
+    {
+      "REFCODE": null,
+      "MED": "OPTFER SP ABRICOT BUOML",
+      "QT": null,
+      "prix": 29.852,
+      "unit_price": 28.852,
+      "confidence": 0.8711
+    },
+    {
+      "REFCODE": "106805",
+      "MED": "VITAMNE D3 B.O N. ML 7 INJ",
+      "QT": 1,
+      "prix": 14.1,
+      "unit_price": 4.1,
+      "confidence": 0.8781
+    },
+    {
+      "REFCODE": null,
+      "MED": "LAURUS GRIPOFF SP /BUVABLE",
+      "QT": null,
+      "prix": 16.6,
+      "unit_price": 16.5,
+      "confidence": 0.9596
+    },
+    {
+      "REFCODE": null,
+      "MED": "FLAMLASE ENFT SIS SP / BUVABLE",
+      "QT": 1,
+      "prix": 13.902,
+      "unit_price": 13.902,
+      "confidence": 0.954
+    },
+    {
+      "REFCODE": "301111",
+      "MED": "NOVACLAV IDO MG ENFT",
+      "QT": 1,
+      "prix": 9.71,
+      "unit_price": null,
+      "confidence": 0.9249
+    },
+    {
+      "REFCODE": null,
+      "MED": "Tot al",
+      "QT": null,
+      "prix": 83.064,
+      "unit_price": null,
+      "confidence": 0.9455
+    }
+  ],
+  "warnings": [
+    "quantity could not be determined for: OPTIF OPTFER SP ABRICOT BUOML 28 852 29 852",
+    "quantity could not be determined for: LAURUS GRIPOFF SP /BUVABLE 16 500 16 600",
+    "quantity could not be determined for: Tot al 83.064",
+    "checksum failed: item total 195.228 differs from invoice total 28.000"
+  ],
+  "error": null,
+  "invoice_total": 28.0,
+  "items_total": 195.228,
+  "checksum_ok": false,
+  "page_count": 1,
+  "extraction_mode": "deterministic",
+  "ocr_engine": "paddleocr",
+  "service_version": "3.1.0",
+  "processed_at": "2026-07-31T11:45:43.398813Z",
+  "timings": {
+    "primary_preprocessing_s": 0.28,
+    "preprocessing_s": 0.28,
+    "primary_ocr_s": 80.12,
+    "ocr_s": 80.12,
+    "parsing_s": 0.003,
+    "retry_preprocessing_s": 7.03,
+    "retry_ocr_s": 88.59,
+    "retry_deep_preprocessing_s": 9.54,
+    "retry_deep_ocr_s": 96.72,
+    "ocr_retry_used": 0.0,
+    "total_s": 282.46
+  }
+}

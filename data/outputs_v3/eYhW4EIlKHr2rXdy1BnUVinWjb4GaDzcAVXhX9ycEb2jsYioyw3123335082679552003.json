@@ -1,0 +1,48 @@
+{
+  "source_file": "eYhW4EIlKHr2rXdy1BnUVinWjb4GaDzcAVXhX9ycEb2jsYioyw3123335082679552003.pdf",
+  "status": "ok",
+  "items": [
+    {
+      "REFCODE": "301754",
+      "MED": "KETOZOL 2% SHAMPOOING FL",
+      "QT": 1,
+      "prix": 8.435,
+      "unit_price": 8.435,
+      "confidence": 0.9781
+    },
+    {
+      "REFCODE": "302587",
+      "MED": "KODERM 2% CREME DERM TB 1",
+      "QT": 1,
+      "prix": 7.235,
+      "unit_price": 7.235,
+      "confidence": 0.9528
+    },
+    {
+      "REFCODE": "302721",
+      "MED": "PEROZYL 1% FL 30 GRS SPR",
+      "QT": 1,
+      "prix": 9.535,
+      "unit_price": 9.535,
+      "confidence": 0.9068
+    }
+  ],
+  "warnings": [],
+  "error": null,
+  "invoice_total": 25.205,
+  "items_total": 25.205,
+  "checksum_ok": true,
+  "page_count": 1,
+  "extraction_mode": "deterministic",
+  "ocr_engine": "paddleocr",
+  "service_version": "3.1.0",
+  "processed_at": "2026-07-31T11:11:45.079858Z",
+  "timings": {
+    "primary_preprocessing_s": 0.27,
+    "preprocessing_s": 0.27,
+    "primary_ocr_s": 112.19,
+    "ocr_s": 112.19,
+    "parsing_s": 0.002,
+    "total_s": 112.51
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "source_file": "0NOzQXYrU3ek7rjmkkYfiTi6KFlE2Cx0PYQWHKGgjZOajXyn5u3213941968808700163.pdf",
+  "status": "ok",
+  "items": [
+    {
+      "REFCODE": "303616",
+      "MED": "OMNICEF 125 MG SUSP ORAL 80 ML",
+      "QT": 2,
+      "prix": 34.68,
+      "unit_price": 17.34,
+      "confidence": 0.9965
+    },
+    {
+      "REFCODE": null,
+      "MED": "PHYSIOMER JET NORMAL",
+      "QT": 1,
+      "prix": 23.3,
+      "unit_price": 23.3,
+      "confidence": 0.9997
+    },
+    {
+      "REFCODE": "301034",
+      "MED": "MUCOLARE 2% ENF FL/125 ML",
+      "QT": 1,
+      "prix": 2.875,
+      "unit_price": 2.875,
+      "confidence": 0.9916
+    },
+    {
+      "REFCODE": "303154",
+      "MED": "COPRED ODT 20MG B/10",
+      "QT": 1,
+      "prix": 5.32,
+      "unit_price": 5.32,
+      "confidence": 0.9999
+    }
+  ],
+  "warnings": [],
+  "error": null,
+  "invoice_total": 66.175,
+  "items_total": 66.175,
+  "checksum_ok": true,
+  "page_count": 1,
+  "extraction_mode": "deterministic",
+  "ocr_engine": "paddleocr",
+  "service_version": "3.2.0",
+  "processed_at": "2026-08-03T13:32:48.390031Z",
+  "timings": {
+    "primary_preprocessing_s": 0.17,
+    "preprocessing_s": 0.17,
+    "primary_ocr_s": 27.44,
+    "ocr_s": 27.44,
+    "parsing_s": 0.003,
+    "total_s": 27.62
+  }
+}

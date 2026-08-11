@@ -1,0 +1,63 @@
+{
+  "source_file": "Mx29o1Ay7237j865qy2BMN3mZWqK3DqumHxDN1nKweuD4vD8Y47897992854058358619-2.pdf",
+  "status": "needs_review",
+  "items": [
+    {
+      "REFCODE": "303363",
+      "MED": "ASPEGIC 100MG SACHET BT/30",
+      "QT": 1,
+      "prix": 4.295,
+      "unit_price": 4.295,
+      "confidence": 0.9508
+    },
+    {
+      "REFCODE": null,
+      "MED": "UOUGUU CINCOR SMG CP BT/30",
+      "QT": null,
+      "prix": 7.205,
+      "unit_price": null,
+      "confidence": 0.8859
+    },
+    {
+      "REFCODE": "00U00D",
+      "MED": "DUOFOR PLUS 1G0/10/25MG COM",
+      "QT": 1,
+      "prix": 37.24,
+      "unit_price": 37.24,
+      "confidence": 0.9029
+    },
+    {
+      "REFCODE": "000000",
+      "MED": "RAZUN ZUMG UP B/30",
+      "QT": 1,
+      "prix": 20.29,
+      "unit_price": 20.29,
+      "confidence": 0.9123
+    },
+    {
+      "REFCODE": null,
+      "MED": "COOO0G INOVAIOMG BTSO",
+      "QT": 1,
+      "prix": 53.59,
+      "unit_price": null,
+      "confidence": 0.8911
+    }
+  ],
+  "warnings": [
+    "quantity could not be determined for: UOUGUU CINCOR SMG CP BT/30 7 205 i 7 2051"
+  ],
+  "error": null,
+  "invoice_total": 122.62,
+  "items_total": 122.62,
+  "checksum_ok": true,
+  "page_count": 1,
+  "extraction_mode": "deterministic",
+  "ocr_engine": "paddleocr",
+  "service_version": "3.2.0",
+  "processed_at": "2026-07-31T13:11:00.377412Z",
+  "timings": {
+    "primary_ocr_cache_hit": 1.0,
+    "parsing_s": 0.005,
+    "total_s": 0.02
+  }
+}

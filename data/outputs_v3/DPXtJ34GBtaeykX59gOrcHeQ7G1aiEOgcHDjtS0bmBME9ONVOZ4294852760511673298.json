@@ -1,0 +1,39 @@
+{
+  "source_file": "DPXtJ34GBtaeykX59gOrcHeQ7G1aiEOgcHDjtS0bmBME9ONVOZ4294852760511673298.pdf",
+  "status": "needs_review",
+  "items": [
+    {
+      "REFCODE": null,
+      "MED": "VIT D3 BON AMP IM BUV",
+      "QT": 2,
+      "prix": 9.4,
+      "unit_price": 4.7,
+      "confidence": 0.9763
+    }
+  ],
+  "warnings": [
+    "checksum failed: item total 9.400 differs from invoice total 57.826"
+  ],
+  "error": null,
+  "invoice_total": 57.826,
+  "items_total": 9.4,
+  "checksum_ok": false,
+  "page_count": 1,
+  "extraction_mode": "deterministic",
+  "ocr_engine": "paddleocr",
+  "service_version": "3.1.0",
+  "processed_at": "2026-07-31T11:05:19.818566Z",
+  "timings": {
+    "primary_preprocessing_s": 7.03,
+    "preprocessing_s": 7.03,
+    "primary_ocr_s": 43.73,
+    "ocr_s": 43.73,
+    "parsing_s": 0.001,
+    "retry_preprocessing_s": 6.45,
+    "retry_ocr_s": 56.34,
+    "retry_deep_preprocessing_s": 3.72,
+    "retry_deep_ocr_s": 55.14,
+    "ocr_retry_used": 0.0,
+    "total_s": 172.49
+  }
+}

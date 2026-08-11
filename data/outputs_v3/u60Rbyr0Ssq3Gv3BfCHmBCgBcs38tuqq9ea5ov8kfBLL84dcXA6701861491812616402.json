@@ -1,0 +1,55 @@
+{
+  "source_file": "u60Rbyr0Ssq3Gv3BfCHmBCgBcs38tuqq9ea5ov8kfBLL84dcXA6701861491812616402.pdf",
+  "status": "needs_review",
+  "items": [
+    {
+      "REFCODE": "302982",
+      "MED": "PROGEST 400/400 BTE 15",
+      "QT": 2,
+      "prix": 67.45,
+      "unit_price": 33.725,
+      "confidence": 0.9978
+    },
+    {
+      "REFCODE": "302164",
+      "MED": "ACTAFON 160 BTE 12 - COMPRIME",
+      "QT": 3,
+      "prix": 20.685,
+      "unit_price": 6.895,
+      "confidence": 0.9383
+    },
+    {
+      "REFCODE": null,
+      "MED": "ALBIFER 60MG BTE 30 COMPRIMES",
+      "QT": 2,
+      "prix": 22.348,
+      "unit_price": 11.174,
+      "confidence": 0.9543
+    }
+  ],
+  "warnings": [
+    "checksum failed: item total 110.483 differs from invoice total 88.135"
+  ],
+  "error": null,
+  "invoice_total": 88.135,
+  "items_total": 110.483,
+  "checksum_ok": false,
+  "page_count": 1,
+  "extraction_mode": "deterministic",
+  "ocr_engine": "paddleocr",
+  "service_version": "3.1.0",
+  "processed_at": "2026-07-31T12:05:12.839962Z",
+  "timings": {
+    "primary_preprocessing_s": 0.51,
+    "preprocessing_s": 0.51,
+    "primary_ocr_s": 108.49,
+    "ocr_s": 108.49,
+    "parsing_s": 0.003,
+    "retry_preprocessing_s": 7.22,
+    "retry_ocr_s": 81.23,
+    "retry_deep_preprocessing_s": 9.99,
+    "retry_deep_ocr_s": 89.7,
+    "ocr_retry_used": 0.0,
+    "total_s": 297.22
+  }
+}

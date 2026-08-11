@@ -1,0 +1,34 @@
+{
+  "source_file": "LK89l0Gcs7bEqwq0EBdTPM5X3TkGEcg2RDe4OWZ55vT93Jrik87938466972392278536.pdf",
+  "status": "needs_review",
+  "items": [
+    {
+      "REFCODE": null,
+      "MED": "32 ACNOLIS B/30 COMPRI",
+      "QT": 2,
+      "prix": 58.904,
+      "unit_price": 29.452,
+      "confidence": 0.9752
+    }
+  ],
+  "warnings": [
+    "invoice total could not be detected, so the checksum was skipped"
+  ],
+  "error": null,
+  "invoice_total": null,
+  "items_total": 58.904,
+  "checksum_ok": null,
+  "page_count": 1,
+  "extraction_mode": "deterministic",
+  "ocr_engine": "paddleocr",
+  "service_version": "3.1.0",
+  "processed_at": "2026-07-31T11:23:42.162824Z",
+  "timings": {
+    "primary_preprocessing_s": 7.08,
+    "preprocessing_s": 7.08,
+    "primary_ocr_s": 49.63,
+    "ocr_s": 49.63,
+    "parsing_s": 0.002,
+    "total_s": 56.74
+  }
+}

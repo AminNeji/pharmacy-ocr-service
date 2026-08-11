@@ -1,0 +1,60 @@
+{
+  "source_file": "bXzB2YAwn3SUQGS2KnvN2N3ZuE5LMq2c2NXIBJXy29vZYfocNS7382916467432737484.pdf",
+  "status": "needs_review",
+  "items": [
+    {
+      "REFCODE": "3018031",
+      "MED": "IBUCARE 400 MG B/20//CP",
+      "QT": 1,
+      "prix": 5.11,
+      "unit_price": 5.11,
+      "confidence": 0.8723
+    },
+    {
+      "REFCODE": "1301235",
+      "MED": "DOLIPRANE 1G SECB/8//CP",
+      "QT": 1,
+      "prix": 4.245,
+      "unit_price": 4.245,
+      "confidence": 0.9965
+    },
+    {
+      "REFCODE": "301359",
+      "MED": "DEBRICOL 200MG B/20//CP",
+      "QT": 1,
+      "prix": 7.343,
+      "unit_price": 7.343,
+      "confidence": 0.9762
+    },
+    {
+      "REFCODE": "103836",
+      "MED": "EUCARBON//CP",
+      "QT": 1,
+      "prix": 12.71,
+      "unit_price": 12.71,
+      "confidence": 0.9956
+    }
+  ],
+  "warnings": [
+    "quantity could not be determined for: T64: 74\\316 578",
+    "item 5 dropped (medicine name is too short to be reliable): {'REFCODE': None, 'MED': 'T64: 74\\\\', 'QT': None, 'prix': 316.578, 'unit_price': None, 'confidence': 0.8677}",
+    "checksum failed: item total 29.408 differs from invoice total 32.470"
+  ],
+  "error": null,
+  "invoice_total": 32.47,
+  "items_total": 29.408,
+  "checksum_ok": false,
+  "page_count": 1,
+  "extraction_mode": "deterministic",
+  "ocr_engine": "paddleocr",
+  "service_version": "3.2.0",
+  "processed_at": "2026-07-31T13:05:38.138985Z",
+  "timings": {
+    "primary_ocr_cache_hit": 1.0,
+    "parsing_s": 0.003,
+    "retry_ocr_cache_hit": 1.0,
+    "retry_deep_ocr_cache_hit": 1.0,
+    "ocr_retry_used": 1.0,
+    "total_s": 0.07
+  }
+}

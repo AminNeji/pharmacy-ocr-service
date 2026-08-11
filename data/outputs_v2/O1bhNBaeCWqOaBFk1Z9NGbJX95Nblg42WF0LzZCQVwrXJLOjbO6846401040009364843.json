@@ -1,0 +1,55 @@
+{
+  "source_file": "O1bhNBaeCWqOaBFk1Z9NGbJX95Nblg42WF0LzZCQVwrXJLOjbO6846401040009364843.pdf",
+  "status": "ok",
+  "items": [
+    {
+      "REFCODE": null,
+      "MED": "Code pot Articles",
+      "QT": 2,
+      "prix": 104.488,
+      "unit_price": 52.234,
+      "confidence": 0.9653
+    },
+    {
+      "REFCODE": "303400",
+      "MED": "DIVINUS 10MG COMP BT/307",
+      "QT": 2,
+      "prix": 76.52,
+      "unit_price": 38.26,
+      "confidence": 0.9483
+    },
+    {
+      "REFCODE": "303474",
+      "MED": "SITAGLIP 100MG COMP.PELL. BT30",
+      "QT": 4,
+      "prix": 31.22,
+      "unit_price": 7.805,
+      "confidence": 0.9918
+    },
+    {
+      "REFCODE": null,
+      "MED": "GLUCOVANCE 500MG/5MG B/30",
+      "QT": 2,
+      "prix": 33.3,
+      "unit_price": 16.65,
+      "confidence": 0.9612
+    }
+  ],
+  "warnings": [],
+  "error": null,
+  "invoice_total": 245.508,
+  "items_total": 245.528,
+  "checksum_ok": true,
+  "page_count": 1,
+  "extraction_mode": "deterministic",
+  "ocr_engine": "paddleocr",
+  "service_version": "3.1.0",
+  "processed_at": "2026-07-29T23:36:22.603585Z",
+  "timings": {
+    "primary_ocr_cache_hit": 1.0,
+    "parsing_s": 0.001,
+    "retry_ocr_cache_hit": 1.0,
+    "ocr_retry_used": 1.0,
+    "total_s": 0.01
+  }
+}

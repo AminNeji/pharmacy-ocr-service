@@ -1,0 +1,32 @@
+{
+  "source_file": "D3hG6lbYaleSnWjUhecVSlyCTudE8RIjWfAalIkYpoVgLKRKxa8971422680007602061.pdf",
+  "status": "ok",
+  "items": [
+    {
+      "REFCODE": "300170",
+      "MED": "INFLAMYL SUSP OR.50MG/ML FL 150M SIR AINS",
+      "QT": 1,
+      "prix": 6.965,
+      "unit_price": 6.965,
+      "confidence": 0.9617
+    }
+  ],
+  "warnings": [],
+  "error": null,
+  "invoice_total": 6.965,
+  "items_total": 6.965,
+  "checksum_ok": true,
+  "page_count": 1,
+  "extraction_mode": "deterministic",
+  "ocr_engine": "paddleocr",
+  "service_version": "3.1.0",
+  "processed_at": "2026-07-31T11:01:48.526388Z",
+  "timings": {
+    "primary_preprocessing_s": 0.26,
+    "preprocessing_s": 0.26,
+    "primary_ocr_s": 72.24,
+    "ocr_s": 72.24,
+    "parsing_s": 0.002,
+    "total_s": 72.51
+  }
+}

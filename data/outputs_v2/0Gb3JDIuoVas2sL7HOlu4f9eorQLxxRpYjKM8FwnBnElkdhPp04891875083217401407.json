@@ -1,0 +1,37 @@
+{
+  "source_file": "0Gb3JDIuoVas2sL7HOlu4f9eorQLxxRpYjKM8FwnBnElkdhPp04891875083217401407.pdf",
+  "status": "ok",
+  "items": [
+    {
+      "REFCODE": "303154",
+      "MED": "COPRED ODT 20 MG CP ORODISP B/10",
+      "QT": 1,
+      "prix": 5.32,
+      "unit_price": 5.32,
+      "confidence": 0.9517
+    },
+    {
+      "REFCODE": "300194",
+      "MED": "SALBUTAMOL SIMED SIROP 150 ML",
+      "QT": 1,
+      "prix": 5.15,
+      "unit_price": 5.15,
+      "confidence": 0.9314
+    }
+  ],
+  "warnings": [],
+  "error": null,
+  "invoice_total": 10.47,
+  "items_total": 10.47,
+  "checksum_ok": true,
+  "page_count": 1,
+  "extraction_mode": "deterministic",
+  "ocr_engine": "paddleocr",
+  "service_version": "3.1.0",
+  "processed_at": "2026-07-29T23:36:21.699252Z",
+  "timings": {
+    "primary_ocr_cache_hit": 1.0,
+    "parsing_s": 0.001,
+    "total_s": 0.0
+  }
+}

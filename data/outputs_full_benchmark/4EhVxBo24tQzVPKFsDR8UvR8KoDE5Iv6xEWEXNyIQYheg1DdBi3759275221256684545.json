@@ -1,0 +1,48 @@
+{
+  "source_file": "4EhVxBo24tQzVPKFsDR8UvR8KoDE5Iv6xEWEXNyIQYheg1DdBi3759275221256684545.pdf",
+  "status": "ok",
+  "items": [
+    {
+      "REFCODE": "000000",
+      "MED": "CONNETTIVINA PLUS CREME DER",
+      "QT": 1,
+      "prix": 20.772,
+      "unit_price": 20.772,
+      "confidence": 0.9922
+    },
+    {
+      "REFCODE": "000000",
+      "MED": "BACTIGRAS TULLE GRAS 10*10",
+      "QT": 10,
+      "prix": 35.934,
+      "unit_price": 35.934,
+      "confidence": 0.9945
+    },
+    {
+      "REFCODE": "301606",
+      "MED": "ALGESIC 1000MG B/8 CP",
+      "QT": 2,
+      "prix": 5.21,
+      "unit_price": 2.605,
+      "confidence": 0.9945
+    }
+  ],
+  "warnings": [],
+  "error": null,
+  "invoice_total": 61.916,
+  "items_total": 61.916,
+  "checksum_ok": true,
+  "page_count": 1,
+  "extraction_mode": "deterministic",
+  "ocr_engine": "paddleocr",
+  "service_version": "3.2.0",
+  "processed_at": "2026-08-03T13:03:44.974383Z",
+  "timings": {
+    "primary_preprocessing_s": 0.26,
+    "preprocessing_s": 0.26,
+    "primary_ocr_s": 65.09,
+    "ocr_s": 65.09,
+    "parsing_s": 0.005,
+    "total_s": 65.37
+  }
+}

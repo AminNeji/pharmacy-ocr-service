@@ -1,0 +1,35 @@
+# Pinned runtime dependencies — the source of truth for deployments.
+#
+# These exact versions are the ones verified working on the reference machine
+# (Windows 10, CPython 3.11.0). Regenerate with:
+#     pip install -r requirements.in && pip freeze > requirements.txt
+#
+# IMPORTANT: install `opencv-contrib-python` ONLY. `opencv-python` and
+# `opencv-contrib-python` both install a top-level `cv2` package and shadow each
+# other; paddlex requires the contrib build, so that is the one we keep. If both
+# are present, run `pip uninstall -y opencv-python` before starting the service.
+
+# --- Web API ---------------------------------------------------------------
+fastapi==0.139.2
+uvicorn[standard]==0.51.0
+python-multipart==0.0.32
+
+# --- Configuration & validation --------------------------------------------
+pydantic==2.13.4
+pydantic-settings==2.7.1
+
+# --- Imaging & documents ----------------------------------------------------
+numpy==2.3.5
+opencv-contrib-python==4.10.0.84
+pymupdf==1.28.0
+pillow==12.3.0
+
+# --- OCR engine -------------------------------------------------------------
+paddlepaddle==3.3.1
+paddleocr==3.7.0
+
+# --- Optional LLM fallback (hybrid/llm extraction modes) --------------------
+ollama==0.6.2
+
+# --- Observability ----------------------------------------------------------
+prometheus-client==0.21.1

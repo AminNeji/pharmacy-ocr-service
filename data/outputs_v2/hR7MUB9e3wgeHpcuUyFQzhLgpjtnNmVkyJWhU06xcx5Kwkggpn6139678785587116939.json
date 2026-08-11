@@ -1,0 +1,27 @@
+{
+  "source_file": "hR7MUB9e3wgeHpcuUyFQzhLgpjtnNmVkyJWhU06xcx5Kwkggpn6139678785587116939.pdf",
+  "status": "needs_review",
+  "items": [],
+  "warnings": [
+    "deterministic parser found no invoice rows",
+    "no invoice items found despite non-empty OCR text",
+    "invoice total could not be detected, so the checksum was skipped"
+  ],
+  "error": null,
+  "invoice_total": null,
+  "items_total": 0.0,
+  "checksum_ok": null,
+  "page_count": 1,
+  "extraction_mode": "deterministic",
+  "ocr_engine": "paddleocr",
+  "service_version": "3.1.0",
+  "processed_at": "2026-07-29T23:36:22.279091Z",
+  "timings": {
+    "primary_ocr_cache_hit": 1.0,
+    "parsing_s": 0.001,
+    "retry_ocr_cache_hit": 1.0,
+    "retry_deep_ocr_cache_hit": 1.0,
+    "ocr_retry_used": 1.0,
+    "total_s": 0.02
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "source_file": "lYAYbgvc58A4ziR73OkAn4NpqC5t4LuimJkCfpeRMcHBWgU4PI8593426958658688751.pdf",
+  "status": "needs_review",
+  "items": [
+    {
+      "REFCODE": "300843",
+      "MED": "AZRO 900 SIROP",
+      "QT": 1,
+      "prix": 10.7,
+      "unit_price": 10.7,
+      "confidence": 0.859
+    },
+    {
+      "REFCODE": "300014",
+      "MED": "ALERGOSONE G.B F/3OML",
+      "QT": 1,
+      "prix": 5.41,
+      "unit_price": 5.41,
+      "confidence": 0.8212
+    },
+    {
+      "REFCODE": "100771",
+      "MED": "PIVALONE GOUTTES NAS",
+      "QT": 1,
+      "prix": 3.963,
+      "unit_price": 3.963,
+      "confidence": 0.8845
+    },
+    {
+      "REFCODE": "303161",
+      "MED": "PROSPAN 0.7 GR FU 100 ML",
+      "QT": 1,
+      "prix": 11.16,
+      "unit_price": 11.16,
+      "confidence": 0.8423
+    },
+    {
+      "REFCODE": "104311",
+      "MED": "ENTEROGERMINA B/10",
+      "QT": 1,
+      "prix": 7.915,
+      "unit_price": null,
+      "confidence": 0.8611
+    }
+  ],
+  "warnings": [
+    "quantity could not be determined for: Te 71 394 136 Pax.",
+    "item 6 dropped (medicine name is too short to be reliable): {'REFCODE': '900100', 'MED': \"X601'S\", 'QT': 1, 'prix': 5.109, 'unit_price': None, 'confidence': 0.7012}",
+    "item 7 dropped (medicine name is too short to be reliable): {'REFCODE': None, 'MED': 'Te', 'QT': None, 'prix': 71.394, 'unit_price': None, 'confidence': 0.841}",
+    "checksum failed: item total 39.148 differs from invoice total 44.257"
+  ],
+  "error": null,
+  "invoice_total": 44.257,
+  "items_total": 39.148,
+  "checksum_ok": false,
+  "page_count": 1,
+  "extraction_mode": "deterministic",
+  "ocr_engine": "paddleocr",
+  "service_version": "3.1.0",
+  "processed_at": "2026-07-31T11:29:53.884460Z",
+  "timings": {
+    "primary_preprocessing_s": 7.0,
+    "preprocessing_s": 7.0,
+    "primary_ocr_s": 72.37,
+    "ocr_s": 72.37,
+    "parsing_s": 0.002,
+    "retry_preprocessing_s": 7.17,
+    "retry_ocr_s": 81.45,
+    "retry_deep_preprocessing_s": 7.16,
+    "retry_deep_ocr_s": 86.36,
+    "ocr_retry_used": 0.0,
+    "total_s": 261.55
+  }
+}

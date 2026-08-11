@@ -1,0 +1,63 @@
+{
+  "source_file": "9vTtbXTUMPJRAPE3xYmmZ19mgmKoWVAPy9WBYuKEs3wcvfJwxN4032671945391818773.pdf",
+  "status": "needs_review",
+  "items": [
+    {
+      "REFCODE": "300838",
+      "MED": "AZIX 500 MG B/3",
+      "QT": 1,
+      "prix": 11.28,
+      "unit_price": 11.28,
+      "confidence": 0.9994
+    },
+    {
+      "REFCODE": null,
+      "MED": "HIVREX TOUX SIROP 150ML",
+      "QT": 1,
+      "prix": 19.289,
+      "unit_price": 19.289,
+      "confidence": 0.9288
+    },
+    {
+      "REFCODE": "302982",
+      "MED": "PROGEST 400 B/15",
+      "QT": 2,
+      "prix": 67.45,
+      "unit_price": 33.725,
+      "confidence": 0.9946
+    },
+    {
+      "REFCODE": "6192401801271",
+      "MED": "ALBIFER 60MG BTE 30 COMPRIMESCOMPRI",
+      "QT": 2,
+      "prix": 28.028,
+      "unit_price": null,
+      "confidence": 0.9554
+    }
+  ],
+  "warnings": [
+    "checksum failed: item total 126.047 differs from invoice total 98.019"
+  ],
+  "error": null,
+  "invoice_total": 98.019,
+  "items_total": 126.047,
+  "checksum_ok": false,
+  "page_count": 1,
+  "extraction_mode": "deterministic",
+  "ocr_engine": "paddleocr",
+  "service_version": "3.2.0",
+  "processed_at": "2026-08-03T13:08:31.887408Z",
+  "timings": {
+    "primary_preprocessing_s": 0.26,
+    "preprocessing_s": 0.26,
+    "primary_ocr_s": 42.3,
+    "ocr_s": 42.3,
+    "parsing_s": 0.002,
+    "retry_preprocessing_s": 0.28,
+    "retry_ocr_s": 47.63,
+    "retry_deep_preprocessing_s": 0.38,
+    "retry_deep_ocr_s": 51.3,
+    "ocr_retry_used": 0.0,
+    "total_s": 142.17
+  }
+}

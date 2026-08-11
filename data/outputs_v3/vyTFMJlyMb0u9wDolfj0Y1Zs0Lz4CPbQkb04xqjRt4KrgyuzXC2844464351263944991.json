@@ -1,0 +1,56 @@
+{
+  "source_file": "vyTFMJlyMb0u9wDolfj0Y1Zs0Lz4CPbQkb04xqjRt4KrgyuzXC2844464351263944991.pdf",
+  "status": "ok",
+  "items": [
+    {
+      "REFCODE": "308545",
+      "MED": "OTIPAX GTTES AURIC FL 15ML",
+      "QT": 1,
+      "prix": 4.89,
+      "unit_price": 4.89,
+      "confidence": 0.983
+    },
+    {
+      "REFCODE": "301066",
+      "MED": "DOLIPRANE 300MG B12 SA",
+      "QT": 1,
+      "prix": 3.935,
+      "unit_price": 3.935,
+      "confidence": 0.9997
+    },
+    {
+      "REFCODE": "301338",
+      "MED": "AUGMENTIN ENF 500MG B24 SA",
+      "QT": 1,
+      "prix": 24.655,
+      "unit_price": 24.655,
+      "confidence": 0.9489
+    },
+    {
+      "REFCODE": "11399",
+      "MED": "PHYSIOMER JET NORMAL SPRAY 1139 SPRAY N",
+      "QT": 2,
+      "prix": 46.7,
+      "unit_price": 23.35,
+      "confidence": 0.995
+    }
+  ],
+  "warnings": [],
+  "error": null,
+  "invoice_total": 80.18,
+  "items_total": 80.18,
+  "checksum_ok": true,
+  "page_count": 1,
+  "extraction_mode": "deterministic",
+  "ocr_engine": "paddleocr",
+  "service_version": "3.1.0",
+  "processed_at": "2026-07-31T12:05:12.854706Z",
+  "timings": {
+    "primary_ocr_cache_hit": 1.0,
+    "rot270_ocr_cache_hit": 1.0,
+    "rot90_ocr_cache_hit": 1.0,
+    "orientation_degrees": 270.0,
+    "parsing_s": 0.002,
+    "total_s": 0.01
+  }
+}

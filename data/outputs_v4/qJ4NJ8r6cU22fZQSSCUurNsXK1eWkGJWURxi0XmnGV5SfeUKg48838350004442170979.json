@@ -1,0 +1,69 @@
+{
+  "source_file": "qJ4NJ8r6cU22fZQSSCUurNsXK1eWkGJWURxi0XmnGV5SfeUKg48838350004442170979.pdf",
+  "status": "ok",
+  "items": [
+    {
+      "REFCODE": "301250",
+      "MED": "NOVAMOX 1G CP DISP B/12",
+      "QT": 2,
+      "prix": 18.4,
+      "unit_price": 9.2,
+      "confidence": 0.9919
+    },
+    {
+      "REFCODE": "300975",
+      "MED": "SUPRASONE 0.05% PD",
+      "QT": 84,
+      "prix": 4.21,
+      "unit_price": 0.05,
+      "confidence": 0.9856
+    },
+    {
+      "REFCODE": "000000",
+      "MED": "ELUDRIL PRO SOL BUCC FL200M",
+      "QT": 1,
+      "prix": 11.615,
+      "unit_price": 11.615,
+      "confidence": 0.9732
+    },
+    {
+      "REFCODE": "303146",
+      "MED": "COPRED EFF 20 MG BT 10 FLAC",
+      "QT": 1,
+      "prix": 6.66,
+      "unit_price": 6.68,
+      "confidence": 0.951
+    },
+    {
+      "REFCODE": "000000",
+      "MED": "JELONET TULGRAS",
+      "QT": 1,
+      "prix": 31.404,
+      "unit_price": 31.404,
+      "confidence": 0.9839
+    },
+    {
+      "REFCODE": "000000",
+      "MED": "BALSAM 0.25 TUBE 30GR (MEBO",
+      "QT": 1,
+      "prix": 33.915,
+      "unit_price": 33.915,
+      "confidence": 0.9726
+    }
+  ],
+  "warnings": [],
+  "error": null,
+  "invoice_total": 106.224,
+  "items_total": 106.204,
+  "checksum_ok": true,
+  "page_count": 1,
+  "extraction_mode": "deterministic",
+  "ocr_engine": "paddleocr",
+  "service_version": "3.2.0",
+  "processed_at": "2026-07-31T13:11:51.846733Z",
+  "timings": {
+    "primary_ocr_cache_hit": 1.0,
+    "parsing_s": 0.002,
+    "total_s": 0.03
+  }
+}

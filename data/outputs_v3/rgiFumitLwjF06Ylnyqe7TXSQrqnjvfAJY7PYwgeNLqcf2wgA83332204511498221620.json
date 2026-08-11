@@ -1,0 +1,56 @@
+{
+  "source_file": "rgiFumitLwjF06Ylnyqe7TXSQrqnjvfAJY7PYwgeNLqcf2wgA83332204511498221620.pdf",
+  "status": "ok",
+  "items": [
+    {
+      "REFCODE": "307322",
+      "MED": "PHYS1OL 5ML UNI.SOL O.R.L P",
+      "QT": 2,
+      "prix": 4.91,
+      "unit_price": 2.455,
+      "confidence": 0.9598
+    },
+    {
+      "REFCODE": "104633",
+      "MED": "ZALERG 0.25MG/ML COLLYRE 3",
+      "QT": 1,
+      "prix": 13.187,
+      "unit_price": 0.25,
+      "confidence": 0.844
+    },
+    {
+      "REFCODE": "300006",
+      "MED": "PND COLLYRE",
+      "QT": 1,
+      "prix": 3.072,
+      "unit_price": 3.072,
+      "confidence": 0.859
+    },
+    {
+      "REFCODE": "000000",
+      "MED": "THEALOSE COLLYRE FL 1OML",
+      "QT": 1,
+      "prix": 43.7,
+      "unit_price": 43.7,
+      "confidence": 0.9841
+    }
+  ],
+  "warnings": [],
+  "error": null,
+  "invoice_total": 64.869,
+  "items_total": 64.869,
+  "checksum_ok": true,
+  "page_count": 1,
+  "extraction_mode": "deterministic",
+  "ocr_engine": "paddleocr",
+  "service_version": "3.1.0",
+  "processed_at": "2026-07-31T11:51:36.614447Z",
+  "timings": {
+    "primary_preprocessing_s": 0.32,
+    "preprocessing_s": 0.32,
+    "primary_ocr_s": 68.93,
+    "ocr_s": 68.93,
+    "parsing_s": 0.002,
+    "total_s": 69.28
+  }
+}

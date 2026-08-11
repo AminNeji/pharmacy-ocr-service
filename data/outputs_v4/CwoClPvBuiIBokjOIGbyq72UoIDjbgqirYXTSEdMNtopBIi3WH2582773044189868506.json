@@ -1,0 +1,32 @@
+{
+  "source_file": "CwoClPvBuiIBokjOIGbyq72UoIDjbgqirYXTSEdMNtopBIi3WH2582773044189868506.pdf",
+  "status": "ok",
+  "items": [
+    {
+      "REFCODE": null,
+      "MED": "KELA MAG B30 CP XEN",
+      "QT": 1,
+      "prix": 29.05,
+      "unit_price": 29.05,
+      "confidence": 0.9988
+    }
+  ],
+  "warnings": [],
+  "error": null,
+  "invoice_total": 29.05,
+  "items_total": 29.05,
+  "checksum_ok": true,
+  "page_count": 1,
+  "extraction_mode": "deterministic",
+  "ocr_engine": "paddleocr",
+  "service_version": "3.2.0",
+  "processed_at": "2026-07-31T13:06:41.639750Z",
+  "timings": {
+    "primary_ocr_cache_hit": 1.0,
+    "parsing_s": 0.003,
+    "retry_ocr_cache_hit": 1.0,
+    "retry_deep_ocr_cache_hit": 1.0,
+    "ocr_retry_used": 1.0,
+    "total_s": 0.07
+  }
+}

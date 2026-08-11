@@ -1,0 +1,55 @@
+{
+  "source_file": "SIgQW0Uy0cDdW3KAd1OzXNI35n873AFiURSgZ0bVUVznidr8Qi8281269378140614968.pdf",
+  "status": "needs_review",
+  "items": [
+    {
+      "REFCODE": null,
+      "MED": "AMP INJ",
+      "QT": 4,
+      "prix": 4.245,
+      "unit_price": null,
+      "confidence": 0.9998
+    },
+    {
+      "REFCODE": "300601",
+      "MED": "GENTA 160 MG B/1",
+      "QT": 1,
+      "prix": 40.22,
+      "unit_price": 40.22,
+      "confidence": 0.9948
+    },
+    {
+      "REFCODE": "303413",
+      "MED": "ASMULAIR 10'MG BTE 30 - COMPRIME COMPSIROP",
+      "QT": 1,
+      "prix": 6.33,
+      "unit_price": 6.33,
+      "confidence": 0.9823
+    }
+  ],
+  "warnings": [
+    "checksum failed: item total 50.795 differs from invoice total 63.530"
+  ],
+  "error": null,
+  "invoice_total": 63.53,
+  "items_total": 50.795,
+  "checksum_ok": false,
+  "page_count": 1,
+  "extraction_mode": "deterministic",
+  "ocr_engine": "paddleocr",
+  "service_version": "3.1.0",
+  "processed_at": "2026-07-31T12:01:08.211529Z",
+  "timings": {
+    "primary_preprocessing_s": 0.28,
+    "preprocessing_s": 0.28,
+    "primary_ocr_s": 91.34,
+    "ocr_s": 91.34,
+    "parsing_s": 0.002,
+    "retry_preprocessing_s": 7.1,
+    "retry_ocr_s": 73.26,
+    "retry_deep_preprocessing_s": 4.89,
+    "retry_deep_ocr_s": 76.95,
+    "ocr_retry_used": 0.0,
+    "total_s": 253.89
+  }
+}

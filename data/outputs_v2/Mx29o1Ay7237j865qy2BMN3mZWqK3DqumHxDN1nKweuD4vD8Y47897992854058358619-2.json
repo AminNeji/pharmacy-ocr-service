@@ -1,0 +1,50 @@
+{
+  "source_file": "Mx29o1Ay7237j865qy2BMN3mZWqK3DqumHxDN1nKweuD4vD8Y47897992854058358619-2.pdf",
+  "status": "needs_review",
+  "items": [
+    {
+      "REFCODE": "00U00D",
+      "MED": "DUOFOR PLUS TO0/10/25MG COM",
+      "QT": 1,
+      "prix": 4.295,
+      "unit_price": 4.295,
+      "confidence": 0.923
+    },
+    {
+      "REFCODE": "000000",
+      "MED": "RAEUNv 20VG UP B730",
+      "QT": 1,
+      "prix": 7.205,
+      "unit_price": null,
+      "confidence": 0.8415
+    },
+    {
+      "REFCODE": null,
+      "MED": "COO00G INOVA TOMG BTSO",
+      "QT": 1,
+      "prix": 37.24,
+      "unit_price": 37.24,
+      "confidence": 0.8794
+    }
+  ],
+  "warnings": [
+    "invoice total could not be detected, so the checksum was skipped"
+  ],
+  "error": null,
+  "invoice_total": null,
+  "items_total": 48.74,
+  "checksum_ok": null,
+  "page_count": 1,
+  "extraction_mode": "deterministic",
+  "ocr_engine": "paddleocr",
+  "service_version": "3.1.0",
+  "processed_at": "2026-07-29T23:36:22.560743Z",
+  "timings": {
+    "primary_ocr_cache_hit": 1.0,
+    "parsing_s": 0.001,
+    "retry_ocr_cache_hit": 1.0,
+    "retry_deep_ocr_cache_hit": 1.0,
+    "ocr_retry_used": 1.0,
+    "total_s": 0.02
+  }
+}

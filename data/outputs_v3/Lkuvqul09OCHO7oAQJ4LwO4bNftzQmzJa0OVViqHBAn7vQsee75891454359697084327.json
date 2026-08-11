@@ -1,0 +1,40 @@
+{
+  "source_file": "Lkuvqul09OCHO7oAQJ4LwO4bNftzQmzJa0OVViqHBAn7vQsee75891454359697084327.pdf",
+  "status": "needs_review",
+  "items": [
+    {
+      "REFCODE": "303700",
+      "MED": "CLAVUMOX 500MG/62.5MG CP B/48",
+      "QT": 1,
+      "prix": 6.45,
+      "unit_price": 6.45,
+      "confidence": 0.9983
+    }
+  ],
+  "warnings": [
+    "item 1 dropped (medicine name is too short to be reliable): {'REFCODE': None, 'MED': 'CP', 'QT': 1, 'prix': 29.3, 'unit_price': 29.3, 'confidence': 0.9886}",
+    "checksum failed: item total 6.450 differs from invoice total 35.750"
+  ],
+  "error": null,
+  "invoice_total": 35.75,
+  "items_total": 6.45,
+  "checksum_ok": false,
+  "page_count": 1,
+  "extraction_mode": "deterministic",
+  "ocr_engine": "paddleocr",
+  "service_version": "3.1.0",
+  "processed_at": "2026-07-31T11:27:28.537600Z",
+  "timings": {
+    "primary_preprocessing_s": 6.99,
+    "preprocessing_s": 6.99,
+    "primary_ocr_s": 71.27,
+    "ocr_s": 71.27,
+    "rot270_preprocessing_s": 0.32,
+    "rot270_ocr_s": 68.36,
+    "rot90_preprocessing_s": 7.3,
+    "rot90_ocr_s": 72.09,
+    "orientation_degrees": 270.0,
+    "parsing_s": 0.002,
+    "total_s": 226.37
+  }
+}

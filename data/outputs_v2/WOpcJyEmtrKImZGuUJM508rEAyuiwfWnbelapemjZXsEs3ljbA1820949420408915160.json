@@ -1,0 +1,29 @@
+{
+  "source_file": "WOpcJyEmtrKImZGuUJM508rEAyuiwfWnbelapemjZXsEs3ljbA1820949420408915160.pdf",
+  "status": "ok",
+  "items": [
+    {
+      "REFCODE": null,
+      "MED": "METFORAL 850 BTE 30 COMP",
+      "QT": 3,
+      "prix": 11.775,
+      "unit_price": 3.925,
+      "confidence": 0.9857
+    }
+  ],
+  "warnings": [],
+  "error": null,
+  "invoice_total": 11.775,
+  "items_total": 11.775,
+  "checksum_ok": true,
+  "page_count": 1,
+  "extraction_mode": "deterministic",
+  "ocr_engine": "paddleocr",
+  "service_version": "3.1.0",
+  "processed_at": "2026-07-29T23:36:23.052581Z",
+  "timings": {
+    "primary_ocr_cache_hit": 1.0,
+    "parsing_s": 0.001,
+    "total_s": 0.0
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "_readme": [
+    "Hand-labelled expected output, transcribed by reading the invoice images.",
+    "This is the only source of real accuracy in the project; the invoice-total",
+    "checksum is a proxy that cannot see wrong names or missing REFCODEs.",
+    "",
+    "'prix' is always the LINE TOTAL: what this row cost in full, before any",
+    "reimbursement split. Note that the column holding it is NOT identified by",
+    "its label - see the note on each entry.",
+    "",
+    "Add entries with: pharmacy-ocr label <invoice>  (renders the page, then",
+    "you type the rows). Keys are the invoice filename stem."
+  ],
+  "invoices": {
+    "invoice1": {
+      "note": "Phone photo, page rotated 90 degrees, held by hand over a desk. Columns: Code PCT|Produit|Forme|Qte|PUV|Mt. Percu|N.I.O|PR/Lot. Line total is 'Mt. Percu'. First REFCODE is a 14-digit barcode-style code, not the usual 6 digits.",
+      "layout": "cnam_puv_percu_table",
+      "rotation": 90,
+      "invoice_total": 43.545,
+      "items": [
+        {"REFCODE": "20260324094613", "MED": "BIOHERBS VITAMINES B COMPLEXE B", "QT": 1, "prix": 28.821},
+        {"REFCODE": "300973", "MED": "PROFENID 100 MG COMP B/15", "QT": 1, "prix": 8.173},
+        {"REFCODE": "301804", "MED": "IBUCARE 600 MG COMP BT/20", "QT": 1, "prix": 6.551}
+      ]
+    },
+    "invoice2": {
+      "note": "Phone photo, page UPSIDE DOWN (180 degrees), faint toner. Columns: Code PCT|Articles|Qte|Prix Ht|Tva|Total. A 180-degree page keeps normal box shapes, so the tall-box rotation test cannot see it.",
+      "layout": "simple_table",
+      "rotation": 180,
+      "invoice_total": 16.236,
+      "items": [
+        {"REFCODE": "301108", "MED": "NOVACLAV 500 COMP B/24 / CP", "QT": 1, "prix": 16.236}
+      ]
+    },
+    "BCEB1sm024Qw0iywNadPLd6irBEGy1VfIXi5Evq141oIaiWicM8470522511706038039": {
+      "note": "Columns: PCT|Nom de specialite|Qte|Prix Pub|Tot. Fact|T.Ref|Tx|Percu. Line total is 'Tot. Fact'; 'Percu' is the patient copay. Scan also contains an unrelated radiology receipt below the invoice, which must be ignored.",
+      "layout": "cnam_reimbursement_table",
+      "rotation": 0,
+      "invoice_total": 115.06,
+      "items": [
+        {"REFCODE": "300883", "MED": "TERCYD 250MG BT/30 CP", "QT": 1, "prix": 63.865},
+        {"REFCODE": "101288", "MED": "LOCERYL 5% FL/2.5ML", "QT": 1, "prix": 51.195}
+      ]
+    },
+    "vyTFMJlyMb0u9wDolfj0Y1Zs0Lz4CPbQkb04xqjRt4KrgyuzXC2844464351263944991": {
+      "note": "Page rotated 90 degrees. Columns: Code PCT|Produit|Forme|Qte|PUV|Mt. Percu|N.I.O|PR/Lot. Here the line total IS 'Mt. Percu' (row 4: Qte 2 x PUV 23.350 = 46.700), the opposite of BCEB1sm. Only the column whose sum matches the printed total identifies itself.",
+      "layout": "cnam_puv_percu_table",
+      "rotation": 90,
+      "invoice_total": 80.18,
+      "items": [
+        {"REFCODE": "308545", "MED": "OTIPAX GTTES AURIC FL 15ML", "QT": 1, "prix": 4.89},
+        {"REFCODE": "301066", "MED": "DOLIPRANE 300MG B12 SA", "QT": 1, "prix": 3.935},
+        {"REFCODE": "301338", "MED": "AUGMENTIN ENF 500MG B24 SA", "QT": 1, "prix": 24.655},
+        {"REFCODE": "11399", "MED": "PHYSIOMER JET NORMAL SPRAY 1139", "QT": 2, "prix": 46.7}
+      ]
+    },
+    "29StqnikXLGhYWvlhlNqrIjH6YMjmMhyHvRyjOkWg3gmPMLDRz4325630926014178361": {
+      "note": "Page rotated 90 degrees. Columns: Code PCT|Produit|Forme|Qte|PUV|Mt. Percu|N.I.O|PR/Lot. Single row.",
+      "layout": "cnam_puv_percu_table",
+      "rotation": 90,
+      "invoice_total": 5.395,
+      "items": [
+        {"REFCODE": "307540", "MED": "ECOREX 1% CREME 30GR", "QT": 1, "prix": 5.395}
+      ]
+    },
+    "2Bm1FOWEBBoP3AazTHAbZ01wZn8hrXHE3PHQgVZPM7EMrRZrSh6974345981307101691": {
+      "note": "No header row at all; free-form 'CODE NAME  Qte x unit = total' layout. REFCODE 000000 is the pharmacy's own placeholder for uncoded products and IS printed, so it is not null.",
+      "layout": "freeform_equals",
+      "rotation": 0,
+      "invoice_total": 53.225,
+      "items": [
+        {"REFCODE": "102474", "MED": "TIORFAN 30 SA EN B/30SA", "QT": 1, "prix": 22.44},
+        {"REFCODE": "000000", "MED": "ENTEROGERMINA B/10 FL", "QT": 1, "prix": 7.915},
+        {"REFCODE": "301895", "MED": "NOVASFON 80 MG B/20 CP DISP", "QT": 1, "prix": 6.57},
+        {"REFCODE": "000000", "MED": "VOMINAT SP FL/120 ML", "QT": 1, "prix": 16.3}
+      ]
+    },
+    "4EhVxBo24tQzVPKFsDR8UvR8KoDE5Iv6xEWEXNyIQYheg1DdBi3759275221256684545": {
+      "note": "Columns: Code|Libelle|Qte|Prix U.|Total. A product package leaflet is photographed beside the invoice; its prose must not become items.",
+      "layout": "simple_table",
+      "rotation": 0,
+      "invoice_total": 61.916,
+      "items": [
+        {"REFCODE": "000000", "MED": "CONNETTIVINA PLUS CREME DER", "QT": 1, "prix": 20.772},
+        {"REFCODE": "000000", "MED": "BACTIGRAS TULLE GRAS 10*10", "QT": 10, "prix": 35.934},
+        {"REFCODE": "301606", "MED": "ALGESIC 1000MG B/8 CP", "QT": 2, "prix": 5.21}
+      ]
+    }
+  }
+}

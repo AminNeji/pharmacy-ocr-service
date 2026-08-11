@@ -1,0 +1,29 @@
+{
+  "source_file": "kCoaOvryETi0tDPS2CYsvekpmegG9QzJbxUfW5yWhxbca1gGVh1374492933252734621.pdf",
+  "status": "ok",
+  "items": [
+    {
+      "REFCODE": "103916",
+      "MED": "STERDEX PDE OPH B/12",
+      "QT": 1,
+      "prix": 2.298,
+      "unit_price": 2.298,
+      "confidence": 0.9996
+    }
+  ],
+  "warnings": [],
+  "error": null,
+  "invoice_total": 2.298,
+  "items_total": 2.298,
+  "checksum_ok": true,
+  "page_count": 1,
+  "extraction_mode": "deterministic",
+  "ocr_engine": "paddleocr",
+  "service_version": "3.2.0",
+  "processed_at": "2026-07-31T13:09:12.921428Z",
+  "timings": {
+    "primary_ocr_cache_hit": 1.0,
+    "parsing_s": 0.002,
+    "total_s": 6.45
+  }
+}
